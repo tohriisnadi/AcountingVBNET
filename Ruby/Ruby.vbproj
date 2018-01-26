@@ -1,0 +1,1139 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{44EC9260-2E3B-4271-995E-77595EF6B72F}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Ruby.My.MyApplication</StartupObject>
+    <RootNamespace>Ruby</RootNamespace>
+    <AssemblyName>Ruby</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Ruby.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Ruby.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>logo-02.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevExpress.BonusSkins.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Charts.Designer.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Charts.v15.1.Core, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.CodeParser.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Dashboard.v15.1.Core, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Dashboard.v15.1.Win, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Data.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.DataAccess.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.DataAccess.v15.1.UI, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.DemoData.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.DemoData.v15.1.Core, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.DemoReports.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Docs.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.EasyTest.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.ExpressApp.AuditTrail.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.ExpressApp.Chart.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.ExpressApp.Chart.Win.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.ExpressApp.CloneObject.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.ExpressApp.ConditionalAppearance.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.ExpressApp.Demos.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.ExpressApp.EasyTest.WebAdapter.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.ExpressApp.EasyTest.WinAdapter.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.ExpressApp.EF.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.ExpressApp.FileAttachment.Win.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.ExpressApp.HtmlPropertyEditor.Win.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.ExpressApp.Images.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.ExpressApp.Kpi.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.ExpressApp.Objects.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.ExpressApp.PivotChart.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.ExpressApp.PivotChart.Win.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.ExpressApp.PivotGrid.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.ExpressApp.PivotGrid.Win.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.ExpressApp.Scheduler.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.ExpressApp.Scheduler.Win.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.ExpressApp.ScriptRecorder.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.ExpressApp.ScriptRecorder.Win.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.ExpressApp.Security.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.ExpressApp.StateMachine.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.ExpressApp.TreeListEditors.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.ExpressApp.TreeListEditors.Win.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.ExpressApp.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.ExpressApp.Validation.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.ExpressApp.Validation.Win.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.ExpressApp.ViewVariantsModule.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.ExpressApp.Win.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.ExpressApp.Workflow.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.ExpressApp.Workflow.Win.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.ExpressApp.Xpo.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Images.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Map.v15.1.Core, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Office.v15.1.Core, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Pdf.v15.1.Core, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Persistent.Base.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.PivotGrid.v15.1.Core, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Printing.v15.1.Core, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.RichEdit.v15.1.Core, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Snap.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Snap.v15.1.Core, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Snap.v15.1.Extensions, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Sparkline.v15.1.Core, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.SpellChecker.v15.1.Core, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Spreadsheet.v15.1.Core, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Tutorials.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Utils.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Utils.v15.1.UI, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Win.Projects.v15.1.Design, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Workflow.Activities.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Workflow.Activities.v15.1.Design, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Workflow.ToolBoxPackage.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Xpf.Carousel.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Xpf.Charts.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Xpf.Controls.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Xpf.Core.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Xpf.Core.v15.1.Extensions, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Xpf.DemoBase.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Xpf.DemoBase.v15.1.TestUtils, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Xpf.Docking.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Xpf.Gauges.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Xpf.Grid.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Xpf.Grid.v15.1.Core, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Xpf.Grid.v15.1.Extensions, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Xpf.Layout.v15.1.Core, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Xpf.LayoutControl.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Xpf.Map.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Mvvm.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Xpf.NavBar.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Xpf.PivotGrid.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Xpf.Printing.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Xpf.PropertyGrid.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Xpf.ReportDesigner.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Xpf.Ribbon.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Xpf.RichEdit.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Xpf.Scheduler.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Xpf.SpellChecker.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Xpf.Themes.DXStyle.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Xpf.Themes.LightGray.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Xpf.Themes.MetropolisDark.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Xpf.Themes.MetropolisLight.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Xpf.Themes.Office2007Black.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Xpf.Themes.Office2007Blue.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Xpf.Themes.Office2007Silver.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Xpf.Themes.Office2010Black.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Xpf.Themes.Office2010Blue.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Xpf.Themes.Office2010Silver.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Xpf.Themes.Office2013.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Xpf.Themes.Seven.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Xpf.Themes.TouchlineDark.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Xpf.Themes.VS2010.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Xpo.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraBars.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraCharts.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraCharts.v15.1.UI, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraCharts.v15.1.Wizard, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraEditors.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraGauges.v15.1.Core, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraGauges.v15.1.Presets, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraGauges.v15.1.Win, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraGrid.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraLayout.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraMap.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraNavBar.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Pdf.v15.1.Drawing, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraPdfViewer.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraPivotGrid.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraPrinting.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraReports.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraReports.v15.1.Extensions, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraRichEdit.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraRichEdit.v15.1.Extensions, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraScheduler.v15.1.Reporting.Extensions, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraScheduler.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraScheduler.v15.1.Core, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraScheduler.v15.1.Extensions, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraScheduler.v15.1.Reporting, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraSpellChecker.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraSpreadsheet.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraTreeList.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraVerticalGrid.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraWizard.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ClassAkun.vb" />
+    <Compile Include="ClassBank.vb" />
+    <Compile Include="ClassBarang.vb" />
+    <Compile Include="ClassBarangMasuk.vb" />
+    <Compile Include="ClassBukuBesar.vb" />
+    <Compile Include="ClassChart.vb" />
+    <Compile Include="ClassDepartemen.vb" />
+    <Compile Include="ClassHutang.vb" />
+    <Compile Include="ClassHutangDagang.vb" />
+    <Compile Include="ClassIncomeAudit.vb" />
+    <Compile Include="ClassJenisBarang.vb" />
+    <Compile Include="ClassJurnal.vb" />
+    <Compile Include="ClassKategori.vb" />
+    <Compile Include="ClassOperator.vb" />
+    <Compile Include="ClassPelanggan.vb" />
+    <Compile Include="ClassPemesanan.vb" />
+    <Compile Include="ClassPenerimaan.vb" />
+    <Compile Include="ClassPiutang.vb" />
+    <Compile Include="ClassPiutangDagang.vb" />
+    <Compile Include="ClassSetting.vb" />
+    <Compile Include="ClassStokOpname.vb" />
+    <Compile Include="ClassStore.vb" />
+    <Compile Include="ClassSubKelasAkun.vb" />
+    <Compile Include="ClassSuplier.vb" />
+    <Compile Include="ClassTemplateAkun.vb" />
+    <Compile Include="ClassTransaksi.vb" />
+    <Compile Include="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAddAkun.Designer.vb">
+      <DependentUpon>FormAddAkun.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormAddAkun.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAddBank.Designer.vb">
+      <DependentUpon>FormAddBank.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormAddBank.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAddBarang.Designer.vb">
+      <DependentUpon>FormAddBarang.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormAddBarang.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAddBarangMasuk.Designer.vb">
+      <DependentUpon>FormAddBarangMasuk.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormAddBarangMasuk.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAddBarangPesanan.Designer.vb">
+      <DependentUpon>FormAddBarangPesanan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormAddBarangPesanan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAddDepartemen.Designer.vb">
+      <DependentUpon>FormAddDepartemen.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormAddDepartemen.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAddJenisBarang.Designer.vb">
+      <DependentUpon>FormAddJenisBarang.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormAddJenisBarang.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAddKategori.Designer.vb">
+      <DependentUpon>FormAddKategori.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormAddKategori.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAddOperator.Designer.vb">
+      <DependentUpon>FormAddOperator.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormAddOperator.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAddPelanggan.Designer.vb">
+      <DependentUpon>FormAddPelanggan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormAddPelanggan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAddPembayaranPiutang.Designer.vb">
+      <DependentUpon>FormAddPembayaranPiutang.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormAddPembayaranPiutang.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAddPemesananBarang.Designer.vb">
+      <DependentUpon>FormAddPemesananBarang.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormAddPemesananBarang.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAddPenerimaanBarang.Designer.vb">
+      <DependentUpon>FormAddPenerimaanBarang.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormAddPenerimaanBarang.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAddRekonsiliasiBank.Designer.vb">
+      <DependentUpon>FormAddRekonsiliasiBank.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormAddRekonsiliasiBank.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAddSubKlas.Designer.vb">
+      <DependentUpon>FormAddSubKlas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormAddSubKlas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAddSuplier.Designer.vb">
+      <DependentUpon>FormAddSuplier.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormAddSuplier.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAddTemplateTransaksi.Designer.vb">
+      <DependentUpon>FormAddTemplateTransaksi.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormAddTemplateTransaksi.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormBukuBesar.Designer.vb">
+      <DependentUpon>FormBukuBesar.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormBukuBesar.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDaftarBarang.Designer.vb">
+      <DependentUpon>FormDaftarBarang.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormDaftarBarang.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDaftarHutangDagang.designer.vb">
+      <DependentUpon>FormDaftarHutangDagang.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormDaftarHutangDagang.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDaftarJenisBarang.Designer.vb">
+      <DependentUpon>FormDaftarJenisBarang.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormDaftarJenisBarang.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDaftarPelanggan.Designer.vb">
+      <DependentUpon>FormDaftarPelanggan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormDaftarPelanggan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDaftarPemesananBarang.Designer.vb">
+      <DependentUpon>FormDaftarPemesananBarang.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormDaftarPemesananBarang.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDaftarPenerimaanBarang.Designer.vb">
+      <DependentUpon>FormDaftarPenerimaanBarang.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormDaftarPenerimaanBarang.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDaftarPiutangDagang.designer.vb">
+      <DependentUpon>FormDaftarPiutangDagang.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormDaftarPiutangDagang.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDaftarSuplier.Designer.vb">
+      <DependentUpon>FormDaftarSuplier.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormDaftarSuplier.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDaftarTemplateTransaksi.Designer.vb">
+      <DependentUpon>FormDaftarTemplateTransaksi.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormDaftarTemplateTransaksi.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDaftarUmurHutang.designer.vb">
+      <DependentUpon>FormDaftarUmurHutang.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormDaftarUmurHutang.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDaftarUmurPiutang.Designer.vb">
+      <DependentUpon>FormDaftarUmurPiutang.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormDaftarUmurPiutang.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDataAkun.Designer.vb">
+      <DependentUpon>FormDataAkun.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormDataAkun.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDataBankdanRekening.Designer.vb">
+      <DependentUpon>FormDataBankdanRekening.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormDataBankdanRekening.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDataBarang.Designer.vb">
+      <DependentUpon>FormDataBarang.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormDataBarang.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDataDepartemen.Designer.vb">
+      <DependentUpon>FormDataDepartemen.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormDataDepartemen.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDataKategori.Designer.vb">
+      <DependentUpon>FormDataKategori.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormDataKategori.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDataPelanggan.Designer.vb">
+      <DependentUpon>FormDataPelanggan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormDataPelanggan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDataPemerimaanBarang.Designer.vb">
+      <DependentUpon>FormDataPemerimaanBarang.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormDataPemerimaanBarang.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDataPemesananBarang.Designer.vb">
+      <DependentUpon>FormDataPemesananBarang.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormDataPemesananBarang.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDataPerusahaan.Designer.vb">
+      <DependentUpon>FormDataPerusahaan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormDataPerusahaan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDataPiutang.Designer.vb">
+      <DependentUpon>FormDataPiutang.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormDataPiutang.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDataSubklasifikasi.Designer.vb">
+      <DependentUpon>FormDataSubklasifikasi.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormDataSubklasifikasi.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDataSuplier.Designer.vb">
+      <DependentUpon>FormDataSuplier.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormDataSuplier.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDataTamplate.Designer.vb">
+      <DependentUpon>FormDataTamplate.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormDataTamplate.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDetailPembayaranHutang.Designer.vb">
+      <DependentUpon>FormDetailPembayaranHutang.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormDetailPembayaranHutang.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDetilJurnal.Designer.vb">
+      <DependentUpon>FormDetilJurnal.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormDetilJurnal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDetilJurnaleriode.Designer.vb">
+      <DependentUpon>FormDetilJurnaleriode.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormDetilJurnaleriode.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDetilPO.Designer.vb">
+      <DependentUpon>FormDetilPO.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormDetilPO.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDetilRO.Designer.vb">
+      <DependentUpon>FormDetilRO.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormDetilRO.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormEditAkun.Designer.vb">
+      <DependentUpon>FormEditAkun.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormEditAkun.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormEditBarang.Designer.vb">
+      <DependentUpon>FormEditBarang.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormEditBarang.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormEditJenisBarang.Designer.vb">
+      <DependentUpon>FormEditJenisBarang.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormEditJenisBarang.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormEditKategori.Designer.vb">
+      <DependentUpon>FormEditKategori.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormEditKategori.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormEditOperator.Designer.vb">
+      <DependentUpon>FormEditOperator.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormEditOperator.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormEditPelanggan.Designer.vb">
+      <DependentUpon>FormEditPelanggan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormEditPelanggan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormEditSuplier.Designer.vb">
+      <DependentUpon>FormEditSuplier.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormEditSuplier.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormIncomeAudit.Designer.vb">
+      <DependentUpon>FormIncomeAudit.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormIncomeAudit.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormInputTransaksiLain.Designer.vb">
+      <DependentUpon>FormInputTransaksiLain.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormInputTransaksiLain.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormJurnal.Designer.vb">
+      <DependentUpon>FormJurnal.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormJurnal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormJurnalKoreksi.Designer.vb">
+      <DependentUpon>FormJurnalKoreksi.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormJurnalKoreksi.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormJurnalPenyesuaian.Designer.vb">
+      <DependentUpon>FormJurnalPenyesuaian.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormJurnalPenyesuaian.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormJurnalUmum.Designer.vb">
+      <DependentUpon>FormJurnalUmum.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormJurnalUmum.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormKasMasuk.Designer.vb">
+      <DependentUpon>FormKasMasuk.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormKasMasuk.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormLabaRugi.Designer.vb">
+      <DependentUpon>FormLabaRugi.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormLabaRugi.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormLogin.Designer.vb">
+      <DependentUpon>FormLogin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormLogin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMutasi.Designer.vb">
+      <DependentUpon>FormMutasi.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormMutasi.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormNeraca.Designer.vb">
+      <DependentUpon>FormNeraca.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormNeraca.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormNeracaAwal.Designer.vb">
+      <DependentUpon>FormNeracaAwal.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormNeracaAwal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormNeracaLajur.Designer.vb">
+      <DependentUpon>FormNeracaLajur.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormNeracaLajur.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormNeracaLajurPeriode.Designer.vb">
+      <DependentUpon>FormNeracaLajurPeriode.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormNeracaLajurPeriode.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormNol.Designer.vb">
+      <DependentUpon>FormNol.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormNol.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormOperator.Designer.vb">
+      <DependentUpon>FormOperator.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormOperator.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormPembelian.designer.vb">
+      <DependentUpon>FormPembelian.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormPembelian.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormPenjualanBarangPerDistributor.Designer.vb">
+      <DependentUpon>FormPenjualanBarangPerDistributor.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormPenjualanBarangPerDistributor.vb" />
+    <Compile Include="FormPerubahanModal.Designer.vb">
+      <DependentUpon>FormPerubahanModal.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormPerubahanModal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormProsesPembayaran.Designer.vb">
+      <DependentUpon>FormProsesPembayaran.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormProsesPembayaran.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormSettingSistem.Designer.vb">
+      <DependentUpon>FormSettingSistem.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormSettingSistem.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormStokOpname.Designer.vb">
+      <DependentUpon>FormStokOpname.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormStokOpname.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormTotalPenerimaan.Designer.vb">
+      <DependentUpon>FormTotalPenerimaan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormTotalPenerimaan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormTransaksi.Designer.vb">
+      <DependentUpon>FormTransaksi.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormTransaksi.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMain.Designer.vb">
+      <DependentUpon>frmMain.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmMain.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LapNeracaLajur.Designer.vb">
+      <DependentUpon>LapNeracaLajur.vb</DependentUpon>
+    </Compile>
+    <Compile Include="LapNeracaLajur.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="LaporanBukuBesar.Designer.vb">
+      <DependentUpon>LaporanBukuBesar.vb</DependentUpon>
+    </Compile>
+    <Compile Include="LaporanBukuBesar.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="LaporanDaftarHutangDagang.Designer.vb">
+      <DependentUpon>LaporanDaftarHutangDagang.vb</DependentUpon>
+    </Compile>
+    <Compile Include="LaporanDaftarHutangDagang.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="LaporanDaftarPemesanan.Designer.vb">
+      <DependentUpon>LaporanDaftarPemesanan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="LaporanDaftarPemesanan.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="LaporanDaftarPenerimaan.Designer.vb">
+      <DependentUpon>LaporanDaftarPenerimaan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="LaporanDaftarPenerimaan.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="LaporanDaftarPiutangDagang.Designer.vb">
+      <DependentUpon>LaporanDaftarPiutangDagang.vb</DependentUpon>
+    </Compile>
+    <Compile Include="LaporanDaftarPiutangDagang.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="laporanDetilHistoryStokOpname.Designer.vb">
+      <DependentUpon>laporanDetilHistoryStokOpname.vb</DependentUpon>
+    </Compile>
+    <Compile Include="laporanDetilHistoryStokOpname.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="LaporanDetilPO.Designer.vb">
+      <DependentUpon>LaporanDetilPO.vb</DependentUpon>
+    </Compile>
+    <Compile Include="LaporanDetilPO.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="LaporanDetilRO.Designer.vb">
+      <DependentUpon>LaporanDetilRO.vb</DependentUpon>
+    </Compile>
+    <Compile Include="LaporanDetilRO.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="LaporanDetilTransferStok.Designer.vb">
+      <DependentUpon>LaporanDetilTransferStok.vb</DependentUpon>
+    </Compile>
+    <Compile Include="LaporanDetilTransferStok.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="LaporanJurnalUmum.Designer.vb">
+      <DependentUpon>LaporanJurnalUmum.vb</DependentUpon>
+    </Compile>
+    <Compile Include="LaporanJurnalUmum.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="LaporanLabaRugi.Designer.vb">
+      <DependentUpon>LaporanLabaRugi.vb</DependentUpon>
+    </Compile>
+    <Compile Include="LaporanLabaRugi.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="LaporanNeracaSaldo.Designer.vb">
+      <DependentUpon>LaporanNeracaSaldo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="LaporanNeracaSaldo.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="LaporanPerubahanModal.Designer.vb">
+      <DependentUpon>LaporanPerubahanModal.vb</DependentUpon>
+    </Compile>
+    <Compile Include="LaporanPerubahanModal.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ModKoneksi.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="MyCellMergeHelper.vb" />
+    <Compile Include="MyGridPainter.vb" />
+    <Compile Include="MyMergedCell.vb" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAddAkun.resx">
+      <DependentUpon>FormAddAkun.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAddBank.resx">
+      <DependentUpon>FormAddBank.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAddBarang.resx">
+      <DependentUpon>FormAddBarang.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAddBarangMasuk.resx">
+      <DependentUpon>FormAddBarangMasuk.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAddBarangPesanan.resx">
+      <DependentUpon>FormAddBarangPesanan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAddDepartemen.resx">
+      <DependentUpon>FormAddDepartemen.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAddJenisBarang.resx">
+      <DependentUpon>FormAddJenisBarang.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAddKategori.resx">
+      <DependentUpon>FormAddKategori.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAddOperator.resx">
+      <DependentUpon>FormAddOperator.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAddPelanggan.resx">
+      <DependentUpon>FormAddPelanggan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAddPembayaranPiutang.resx">
+      <DependentUpon>FormAddPembayaranPiutang.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAddPemesananBarang.resx">
+      <DependentUpon>FormAddPemesananBarang.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAddPenerimaanBarang.resx">
+      <DependentUpon>FormAddPenerimaanBarang.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAddRekonsiliasiBank.resx">
+      <DependentUpon>FormAddRekonsiliasiBank.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAddSubKlas.resx">
+      <DependentUpon>FormAddSubKlas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAddSuplier.resx">
+      <DependentUpon>FormAddSuplier.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAddTemplateTransaksi.resx">
+      <DependentUpon>FormAddTemplateTransaksi.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormBukuBesar.resx">
+      <DependentUpon>FormBukuBesar.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDaftarBarang.resx">
+      <DependentUpon>FormDaftarBarang.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDaftarHutangDagang.resx">
+      <DependentUpon>FormDaftarHutangDagang.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDaftarJenisBarang.resx">
+      <DependentUpon>FormDaftarJenisBarang.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDaftarPelanggan.resx">
+      <DependentUpon>FormDaftarPelanggan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDaftarPemesananBarang.resx">
+      <DependentUpon>FormDaftarPemesananBarang.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDaftarPenerimaanBarang.resx">
+      <DependentUpon>FormDaftarPenerimaanBarang.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDaftarPiutangDagang.resx">
+      <DependentUpon>FormDaftarPiutangDagang.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDaftarSuplier.resx">
+      <DependentUpon>FormDaftarSuplier.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDaftarTemplateTransaksi.resx">
+      <DependentUpon>FormDaftarTemplateTransaksi.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDaftarUmurHutang.resx">
+      <DependentUpon>FormDaftarUmurHutang.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDaftarUmurPiutang.resx">
+      <DependentUpon>FormDaftarUmurPiutang.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDataAkun.resx">
+      <DependentUpon>FormDataAkun.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDataBankdanRekening.resx">
+      <DependentUpon>FormDataBankdanRekening.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDataBarang.resx">
+      <DependentUpon>FormDataBarang.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDataDepartemen.resx">
+      <DependentUpon>FormDataDepartemen.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDataKategori.resx">
+      <DependentUpon>FormDataKategori.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDataPelanggan.resx">
+      <DependentUpon>FormDataPelanggan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDataPemerimaanBarang.resx">
+      <DependentUpon>FormDataPemerimaanBarang.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDataPemesananBarang.resx">
+      <DependentUpon>FormDataPemesananBarang.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDataPerusahaan.resx">
+      <DependentUpon>FormDataPerusahaan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDataPiutang.resx">
+      <DependentUpon>FormDataPiutang.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDataSubklasifikasi.resx">
+      <DependentUpon>FormDataSubklasifikasi.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDataSuplier.resx">
+      <DependentUpon>FormDataSuplier.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDataTamplate.resx">
+      <DependentUpon>FormDataTamplate.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDetailPembayaranHutang.resx">
+      <DependentUpon>FormDetailPembayaranHutang.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDetilJurnal.resx">
+      <DependentUpon>FormDetilJurnal.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDetilJurnaleriode.resx">
+      <DependentUpon>FormDetilJurnaleriode.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDetilPO.resx">
+      <DependentUpon>FormDetilPO.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDetilRO.resx">
+      <DependentUpon>FormDetilRO.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormEditAkun.resx">
+      <DependentUpon>FormEditAkun.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormEditBarang.resx">
+      <DependentUpon>FormEditBarang.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormEditJenisBarang.resx">
+      <DependentUpon>FormEditJenisBarang.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormEditKategori.resx">
+      <DependentUpon>FormEditKategori.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormEditOperator.resx">
+      <DependentUpon>FormEditOperator.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormEditPelanggan.resx">
+      <DependentUpon>FormEditPelanggan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormEditSuplier.resx">
+      <DependentUpon>FormEditSuplier.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormIncomeAudit.resx">
+      <DependentUpon>FormIncomeAudit.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormInputTransaksiLain.resx">
+      <DependentUpon>FormInputTransaksiLain.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormJurnal.resx">
+      <DependentUpon>FormJurnal.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormJurnalKoreksi.resx">
+      <DependentUpon>FormJurnalKoreksi.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormJurnalPenyesuaian.resx">
+      <DependentUpon>FormJurnalPenyesuaian.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormJurnalUmum.resx">
+      <DependentUpon>FormJurnalUmum.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormKasMasuk.resx">
+      <DependentUpon>FormKasMasuk.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormLabaRugi.resx">
+      <DependentUpon>FormLabaRugi.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormLogin.resx">
+      <DependentUpon>FormLogin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMutasi.resx">
+      <DependentUpon>FormMutasi.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormNeraca.resx">
+      <DependentUpon>FormNeraca.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormNeracaAwal.resx">
+      <DependentUpon>FormNeracaAwal.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormNeracaLajur.resx">
+      <DependentUpon>FormNeracaLajur.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormNeracaLajurPeriode.resx">
+      <DependentUpon>FormNeracaLajurPeriode.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormNol.resx">
+      <DependentUpon>FormNol.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormOperator.resx">
+      <DependentUpon>FormOperator.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormPembelian.resx">
+      <DependentUpon>FormPembelian.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormPenjualanBarangPerDistributor.resx">
+      <DependentUpon>FormPenjualanBarangPerDistributor.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormPerubahanModal.resx">
+      <DependentUpon>FormPerubahanModal.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormProsesPembayaran.resx">
+      <DependentUpon>FormProsesPembayaran.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormSettingSistem.resx">
+      <DependentUpon>FormSettingSistem.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormStokOpname.resx">
+      <DependentUpon>FormStokOpname.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormTotalPenerimaan.resx">
+      <DependentUpon>FormTotalPenerimaan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormTransaksi.resx">
+      <DependentUpon>FormTransaksi.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMain.resx">
+      <DependentUpon>frmMain.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LapNeracaLajur.resx">
+      <DependentUpon>LapNeracaLajur.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LaporanBukuBesar.resx">
+      <DependentUpon>LaporanBukuBesar.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LaporanDaftarHutangDagang.resx">
+      <DependentUpon>LaporanDaftarHutangDagang.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LaporanDaftarPemesanan.resx">
+      <DependentUpon>LaporanDaftarPemesanan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LaporanDaftarPenerimaan.resx">
+      <DependentUpon>LaporanDaftarPenerimaan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LaporanDaftarPiutangDagang.resx">
+      <DependentUpon>LaporanDaftarPiutangDagang.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="laporanDetilHistoryStokOpname.resx">
+      <DependentUpon>laporanDetilHistoryStokOpname.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LaporanDetilPO.resx">
+      <DependentUpon>LaporanDetilPO.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LaporanDetilRO.resx">
+      <DependentUpon>LaporanDetilRO.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LaporanDetilTransferStok.resx">
+      <DependentUpon>LaporanDetilTransferStok.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LaporanJurnalUmum.resx">
+      <DependentUpon>LaporanJurnalUmum.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LaporanLabaRugi.resx">
+      <DependentUpon>LaporanLabaRugi.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LaporanNeracaSaldo.resx">
+      <DependentUpon>LaporanNeracaSaldo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LaporanPerubahanModal.resx">
+      <DependentUpon>LaporanPerubahanModal.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\licenses.licx" />
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="logo-02.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

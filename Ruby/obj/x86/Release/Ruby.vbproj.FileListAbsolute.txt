@@ -1,0 +1,259 @@
+D:\EvoSolution\Ruby\Ruby\Ruby\bin\Release\Ruby.exe
+D:\EvoSolution\Ruby\Ruby\Ruby\bin\Release\Ruby.pdb
+D:\EvoSolution\Ruby\Ruby\Ruby\bin\Release\Ruby.xml
+D:\EvoSolution\Ruby\Ruby\Ruby\obj\x86\Release\Ruby.FormAddAkun.resources
+D:\EvoSolution\Ruby\Ruby\Ruby\obj\x86\Release\Ruby.FormAddBarang.resources
+D:\EvoSolution\Ruby\Ruby\Ruby\obj\x86\Release\Ruby.FormAddKategori.resources
+D:\EvoSolution\Ruby\Ruby\Ruby\obj\x86\Release\Ruby.FormAddPelanggan.resources
+D:\EvoSolution\Ruby\Ruby\Ruby\obj\x86\Release\Ruby.FormAddPembayaranPiutang.resources
+D:\EvoSolution\Ruby\Ruby\Ruby\obj\x86\Release\Ruby.FormAddTemplateTransaksi.resources
+D:\EvoSolution\Ruby\Ruby\Ruby\obj\x86\Release\Ruby.FormDaftarBarang.resources
+D:\EvoSolution\Ruby\Ruby\Ruby\obj\x86\Release\Ruby.FormDaftarPelanggan.resources
+D:\EvoSolution\Ruby\Ruby\Ruby\obj\x86\Release\Ruby.FormDaftarTemplateTransaksi.resources
+D:\EvoSolution\Ruby\Ruby\Ruby\obj\x86\Release\Ruby.FormDaftarUmurPiutang.resources
+D:\EvoSolution\Ruby\Ruby\Ruby\obj\x86\Release\Ruby.FormDataAkun.resources
+D:\EvoSolution\Ruby\Ruby\Ruby\obj\x86\Release\Ruby.FormDataBarang.resources
+D:\EvoSolution\Ruby\Ruby\Ruby\obj\x86\Release\Ruby.FormDataKategori.resources
+D:\EvoSolution\Ruby\Ruby\Ruby\obj\x86\Release\Ruby.FormDataPelanggan.resources
+D:\EvoSolution\Ruby\Ruby\Ruby\obj\x86\Release\Ruby.FormDataPiutang.resources
+D:\EvoSolution\Ruby\Ruby\Ruby\obj\x86\Release\Ruby.FormDataTamplate.resources
+D:\EvoSolution\Ruby\Ruby\Ruby\obj\x86\Release\Ruby.FormEditAkun.resources
+D:\EvoSolution\Ruby\Ruby\Ruby\obj\x86\Release\Ruby.FormEditBarang.resources
+D:\EvoSolution\Ruby\Ruby\Ruby\obj\x86\Release\Ruby.FormEditKategori.resources
+D:\EvoSolution\Ruby\Ruby\Ruby\obj\x86\Release\Ruby.FormEditPelanggan.resources
+D:\EvoSolution\Ruby\Ruby\Ruby\obj\x86\Release\Ruby.FormInputTransaksiLain.resources
+D:\EvoSolution\Ruby\Ruby\Ruby\obj\x86\Release\Ruby.FormNeracaAwal.resources
+D:\EvoSolution\Ruby\Ruby\Ruby\obj\x86\Release\Ruby.FormNol.resources
+D:\EvoSolution\Ruby\Ruby\Ruby\obj\x86\Release\Ruby.FormProsesPembayaran.resources
+D:\EvoSolution\Ruby\Ruby\Ruby\obj\x86\Release\Ruby.FormSettingSistem.resources
+D:\EvoSolution\Ruby\Ruby\Ruby\obj\x86\Release\Ruby.FormTransaksi.resources
+D:\EvoSolution\Ruby\Ruby\Ruby\obj\x86\Release\Ruby.Resources.resources
+D:\EvoSolution\Ruby\Ruby\Ruby\obj\x86\Release\Ruby.vbproj.GenerateResource.Cache
+D:\EvoSolution\Ruby\Ruby\Ruby\obj\x86\Release\Ruby.exe.licenses
+D:\EvoSolution\Ruby\Ruby\Ruby\obj\x86\Release\Ruby.exe
+D:\EvoSolution\Ruby\Ruby\Ruby\obj\x86\Release\Ruby.xml
+D:\EvoSolution\Ruby\Ruby\Ruby\obj\x86\Release\Ruby.pdb
+D:\EvoSolution\Ruby\Ruby\Ruby\obj\x86\Release\Ruby.FormJurnal.resources
+D:\EvoSolution\Ruby\Ruby\Ruby\obj\x86\Release\Ruby.FormBukuBesar.resources
+D:\Project\BaliSarana\Ruby\Ruby\Ruby\obj\x86\Release\Ruby.exe
+D:\Project\BaliSarana\Ruby\Ruby\Ruby\obj\x86\Release\Ruby.xml
+D:\Project\BaliSarana\Ruby\Ruby\Ruby\obj\x86\Release\Ruby.pdb
+D:\Project\BaliSarana\Ruby\Ruby\Ruby\bin\Release\Ruby.exe
+D:\Project\BaliSarana\Ruby\Ruby\Ruby\bin\Release\Ruby.pdb
+D:\Project\BaliSarana\Ruby\Ruby\Ruby\bin\Release\Ruby.xml
+D:\Project\BaliSarana\Ruby\Ruby\Ruby\bin\Release\System.Windows.Interactivity.dll
+D:\Project\BaliSarana\Ruby\Ruby\Ruby\bin\Release\System.Windows.Interactivity.xml
+D:\Project\BaliSarana\Ruby\Ruby\Ruby\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Project\BaliSarana\Ruby\Ruby\Ruby\obj\x86\Release\Ruby.FormAddAkun.resources
+D:\Project\BaliSarana\Ruby\Ruby\Ruby\obj\x86\Release\Ruby.FormAddBarang.resources
+D:\Project\BaliSarana\Ruby\Ruby\Ruby\obj\x86\Release\Ruby.FormAddKategori.resources
+D:\Project\BaliSarana\Ruby\Ruby\Ruby\obj\x86\Release\Ruby.FormAddPelanggan.resources
+D:\Project\BaliSarana\Ruby\Ruby\Ruby\obj\x86\Release\Ruby.FormAddPembayaranPiutang.resources
+D:\Project\BaliSarana\Ruby\Ruby\Ruby\obj\x86\Release\Ruby.FormAddTemplateTransaksi.resources
+D:\Project\BaliSarana\Ruby\Ruby\Ruby\obj\x86\Release\Ruby.FormBukuBesar.resources
+D:\Project\BaliSarana\Ruby\Ruby\Ruby\obj\x86\Release\Ruby.FormDaftarBarang.resources
+D:\Project\BaliSarana\Ruby\Ruby\Ruby\obj\x86\Release\Ruby.FormDaftarHutangDagang.resources
+D:\Project\BaliSarana\Ruby\Ruby\Ruby\obj\x86\Release\Ruby.FormDaftarPelanggan.resources
+D:\Project\BaliSarana\Ruby\Ruby\Ruby\obj\x86\Release\Ruby.FormDaftarPiutangDagang.resources
+D:\Project\BaliSarana\Ruby\Ruby\Ruby\obj\x86\Release\Ruby.FormDaftarSuplier.resources
+D:\Project\BaliSarana\Ruby\Ruby\Ruby\obj\x86\Release\Ruby.FormDaftarTemplateTransaksi.resources
+D:\Project\BaliSarana\Ruby\Ruby\Ruby\obj\x86\Release\Ruby.FormDaftarUmurHutang.resources
+D:\Project\BaliSarana\Ruby\Ruby\Ruby\obj\x86\Release\Ruby.FormDaftarUmurPiutang.resources
+D:\Project\BaliSarana\Ruby\Ruby\Ruby\obj\x86\Release\Ruby.FormDataAkun.resources
+D:\Project\BaliSarana\Ruby\Ruby\Ruby\obj\x86\Release\Ruby.FormDataBarang.resources
+D:\Project\BaliSarana\Ruby\Ruby\Ruby\obj\x86\Release\Ruby.FormDataKategori.resources
+D:\Project\BaliSarana\Ruby\Ruby\Ruby\obj\x86\Release\Ruby.FormDataPelanggan.resources
+D:\Project\BaliSarana\Ruby\Ruby\Ruby\obj\x86\Release\Ruby.FormDataPiutang.resources
+D:\Project\BaliSarana\Ruby\Ruby\Ruby\obj\x86\Release\Ruby.FormDataTamplate.resources
+D:\Project\BaliSarana\Ruby\Ruby\Ruby\obj\x86\Release\Ruby.FormEditAkun.resources
+D:\Project\BaliSarana\Ruby\Ruby\Ruby\obj\x86\Release\Ruby.FormEditBarang.resources
+D:\Project\BaliSarana\Ruby\Ruby\Ruby\obj\x86\Release\Ruby.FormEditKategori.resources
+D:\Project\BaliSarana\Ruby\Ruby\Ruby\obj\x86\Release\Ruby.FormEditPelanggan.resources
+D:\Project\BaliSarana\Ruby\Ruby\Ruby\obj\x86\Release\Ruby.FormInputTransaksiLain.resources
+D:\Project\BaliSarana\Ruby\Ruby\Ruby\obj\x86\Release\Ruby.FormJurnal.resources
+D:\Project\BaliSarana\Ruby\Ruby\Ruby\obj\x86\Release\Ruby.FormKasMasuk.resources
+D:\Project\BaliSarana\Ruby\Ruby\Ruby\obj\x86\Release\Ruby.FormNeracaAwal.resources
+D:\Project\BaliSarana\Ruby\Ruby\Ruby\obj\x86\Release\Ruby.FormNol.resources
+D:\Project\BaliSarana\Ruby\Ruby\Ruby\obj\x86\Release\Ruby.FormPembelian.resources
+D:\Project\BaliSarana\Ruby\Ruby\Ruby\obj\x86\Release\Ruby.FormProsesPembayaran.resources
+D:\Project\BaliSarana\Ruby\Ruby\Ruby\obj\x86\Release\Ruby.FormSettingSistem.resources
+D:\Project\BaliSarana\Ruby\Ruby\Ruby\obj\x86\Release\Ruby.FormTransaksi.resources
+D:\Project\BaliSarana\Ruby\Ruby\Ruby\obj\x86\Release\Ruby.LaporanDaftarHutangDagang.resources
+D:\Project\BaliSarana\Ruby\Ruby\Ruby\obj\x86\Release\Ruby.LaporanDaftarPiutangDagang.resources
+D:\Project\BaliSarana\Ruby\Ruby\Ruby\obj\x86\Release\Ruby.Resources.resources
+D:\Project\BaliSarana\Ruby\Ruby\Ruby\obj\x86\Release\GenerateResource.read.1.tlog
+D:\Project\BaliSarana\Ruby\Ruby\Ruby\obj\x86\Release\GenerateResource.write.1.tlog
+D:\Project\BaliSarana\Ruby\Ruby\Ruby\obj\x86\Release\Ruby.exe.licenses
+D:\Project\BaliSarana\Ruby\Ruby\Ruby\obj\x86\Release\Ruby.frmMain.resources
+D:\EvoSolution\Ruby\RUBY NEW\Ruby\Ruby\obj\x86\Release\Ruby.exe
+D:\EvoSolution\Ruby\RUBY NEW\Ruby\Ruby\obj\x86\Release\Ruby.xml
+D:\EvoSolution\Ruby\RUBY NEW\Ruby\Ruby\obj\x86\Release\Ruby.pdb
+D:\EvoSolution\Ruby\RUBY NEW\Ruby\Ruby\bin\Release\Ruby.exe
+D:\EvoSolution\Ruby\RUBY NEW\Ruby\Ruby\bin\Release\Ruby.pdb
+D:\EvoSolution\Ruby\RUBY NEW\Ruby\Ruby\bin\Release\Ruby.xml
+D:\EvoSolution\Ruby\RUBY NEW\Ruby\Ruby\bin\Release\System.Windows.Interactivity.dll
+D:\EvoSolution\Ruby\RUBY NEW\Ruby\Ruby\bin\Release\System.Windows.Interactivity.xml
+D:\EvoSolution\Ruby\RUBY NEW\Ruby\Ruby\obj\x86\Release\Ruby.Form1.resources
+D:\EvoSolution\Ruby\RUBY NEW\Ruby\Ruby\obj\x86\Release\Ruby.FormAddAkun.resources
+D:\EvoSolution\Ruby\RUBY NEW\Ruby\Ruby\obj\x86\Release\Ruby.FormAddBarang.resources
+D:\EvoSolution\Ruby\RUBY NEW\Ruby\Ruby\obj\x86\Release\Ruby.FormAddKategori.resources
+D:\EvoSolution\Ruby\RUBY NEW\Ruby\Ruby\obj\x86\Release\Ruby.FormAddOperator.resources
+D:\EvoSolution\Ruby\RUBY NEW\Ruby\Ruby\obj\x86\Release\Ruby.FormAddPelanggan.resources
+D:\EvoSolution\Ruby\RUBY NEW\Ruby\Ruby\obj\x86\Release\Ruby.FormAddPembayaranPiutang.resources
+D:\EvoSolution\Ruby\RUBY NEW\Ruby\Ruby\obj\x86\Release\Ruby.FormAddTemplateTransaksi.resources
+D:\EvoSolution\Ruby\RUBY NEW\Ruby\Ruby\obj\x86\Release\Ruby.FormBukuBesar.resources
+D:\EvoSolution\Ruby\RUBY NEW\Ruby\Ruby\obj\x86\Release\Ruby.FormDaftarBarang.resources
+D:\EvoSolution\Ruby\RUBY NEW\Ruby\Ruby\obj\x86\Release\Ruby.FormDaftarHutangDagang.resources
+D:\EvoSolution\Ruby\RUBY NEW\Ruby\Ruby\obj\x86\Release\Ruby.FormDaftarPelanggan.resources
+D:\EvoSolution\Ruby\RUBY NEW\Ruby\Ruby\obj\x86\Release\Ruby.FormDaftarPiutangDagang.resources
+D:\EvoSolution\Ruby\RUBY NEW\Ruby\Ruby\obj\x86\Release\Ruby.FormDaftarSuplier.resources
+D:\EvoSolution\Ruby\RUBY NEW\Ruby\Ruby\obj\x86\Release\Ruby.FormDaftarTemplateTransaksi.resources
+D:\EvoSolution\Ruby\RUBY NEW\Ruby\Ruby\obj\x86\Release\Ruby.FormDaftarUmurHutang.resources
+D:\EvoSolution\Ruby\RUBY NEW\Ruby\Ruby\obj\x86\Release\Ruby.FormDaftarUmurPiutang.resources
+D:\EvoSolution\Ruby\RUBY NEW\Ruby\Ruby\obj\x86\Release\Ruby.FormDataAkun.resources
+D:\EvoSolution\Ruby\RUBY NEW\Ruby\Ruby\obj\x86\Release\Ruby.FormDataBarang.resources
+D:\EvoSolution\Ruby\RUBY NEW\Ruby\Ruby\obj\x86\Release\Ruby.FormDataKategori.resources
+D:\EvoSolution\Ruby\RUBY NEW\Ruby\Ruby\obj\x86\Release\Ruby.FormDataPelanggan.resources
+D:\EvoSolution\Ruby\RUBY NEW\Ruby\Ruby\obj\x86\Release\Ruby.FormDataPiutang.resources
+D:\EvoSolution\Ruby\RUBY NEW\Ruby\Ruby\obj\x86\Release\Ruby.FormDataTamplate.resources
+D:\EvoSolution\Ruby\RUBY NEW\Ruby\Ruby\obj\x86\Release\Ruby.FormEditAkun.resources
+D:\EvoSolution\Ruby\RUBY NEW\Ruby\Ruby\obj\x86\Release\Ruby.FormEditBarang.resources
+D:\EvoSolution\Ruby\RUBY NEW\Ruby\Ruby\obj\x86\Release\Ruby.FormEditKategori.resources
+D:\EvoSolution\Ruby\RUBY NEW\Ruby\Ruby\obj\x86\Release\Ruby.FormEditOperator.resources
+D:\EvoSolution\Ruby\RUBY NEW\Ruby\Ruby\obj\x86\Release\Ruby.FormEditPelanggan.resources
+D:\EvoSolution\Ruby\RUBY NEW\Ruby\Ruby\obj\x86\Release\Ruby.FormInputTransaksiLain.resources
+D:\EvoSolution\Ruby\RUBY NEW\Ruby\Ruby\obj\x86\Release\Ruby.FormJurnal.resources
+D:\EvoSolution\Ruby\RUBY NEW\Ruby\Ruby\obj\x86\Release\Ruby.FormKasMasuk.resources
+D:\EvoSolution\Ruby\RUBY NEW\Ruby\Ruby\obj\x86\Release\Ruby.FormLabaRugi.resources
+D:\EvoSolution\Ruby\RUBY NEW\Ruby\Ruby\obj\x86\Release\Ruby.FormLogin.resources
+D:\EvoSolution\Ruby\RUBY NEW\Ruby\Ruby\obj\x86\Release\Ruby.FormNeracaAwal.resources
+D:\EvoSolution\Ruby\RUBY NEW\Ruby\Ruby\obj\x86\Release\Ruby.FormNol.resources
+D:\EvoSolution\Ruby\RUBY NEW\Ruby\Ruby\obj\x86\Release\Ruby.FormOperator.resources
+D:\EvoSolution\Ruby\RUBY NEW\Ruby\Ruby\obj\x86\Release\Ruby.FormPembelian.resources
+D:\EvoSolution\Ruby\RUBY NEW\Ruby\Ruby\obj\x86\Release\Ruby.FormProsesPembayaran.resources
+D:\EvoSolution\Ruby\RUBY NEW\Ruby\Ruby\obj\x86\Release\Ruby.FormSettingSistem.resources
+D:\EvoSolution\Ruby\RUBY NEW\Ruby\Ruby\obj\x86\Release\Ruby.FormTransaksi.resources
+D:\EvoSolution\Ruby\RUBY NEW\Ruby\Ruby\obj\x86\Release\Ruby.frmMain.resources
+D:\EvoSolution\Ruby\RUBY NEW\Ruby\Ruby\obj\x86\Release\Ruby.LaporanDaftarHutangDagang.resources
+D:\EvoSolution\Ruby\RUBY NEW\Ruby\Ruby\obj\x86\Release\Ruby.LaporanDaftarPiutangDagang.resources
+D:\EvoSolution\Ruby\RUBY NEW\Ruby\Ruby\obj\x86\Release\Ruby.LaporanLabaRugi.resources
+D:\EvoSolution\Ruby\RUBY NEW\Ruby\Ruby\obj\x86\Release\Ruby.LaporanNeracaSaldo.resources
+D:\EvoSolution\Ruby\RUBY NEW\Ruby\Ruby\obj\x86\Release\Ruby.Resources.resources
+D:\EvoSolution\Ruby\RUBY NEW\Ruby\Ruby\obj\x86\Release\Ruby.vbproj.GenerateResource.Cache
+D:\EvoSolution\Ruby\RUBY NEW\Ruby\Ruby\obj\x86\Release\Ruby.exe.licenses
+C:\Ruby\Ruby\obj\x86\Release\Ruby.exe
+C:\Ruby\Ruby\obj\x86\Release\Ruby.xml
+C:\Ruby\Ruby\obj\x86\Release\Ruby.pdb
+C:\Ruby\Ruby\bin\Release\Ruby.exe
+C:\Ruby\Ruby\bin\Release\Ruby.pdb
+C:\Ruby\Ruby\bin\Release\Ruby.xml
+C:\Ruby\Ruby\bin\Release\System.Windows.Interactivity.dll
+C:\Ruby\Ruby\bin\Release\System.Windows.Interactivity.xml
+C:\Ruby\Ruby\obj\x86\Release\Ruby.vbprojResolveAssemblyReference.cache
+C:\Ruby\Ruby\obj\x86\Release\Ruby.Form1.resources
+C:\Ruby\Ruby\obj\x86\Release\Ruby.FormAddAkun.resources
+C:\Ruby\Ruby\obj\x86\Release\Ruby.FormAddBarang.resources
+C:\Ruby\Ruby\obj\x86\Release\Ruby.FormAddKategori.resources
+C:\Ruby\Ruby\obj\x86\Release\Ruby.FormAddOperator.resources
+C:\Ruby\Ruby\obj\x86\Release\Ruby.FormAddPelanggan.resources
+C:\Ruby\Ruby\obj\x86\Release\Ruby.FormAddPembayaranPiutang.resources
+C:\Ruby\Ruby\obj\x86\Release\Ruby.FormAddTemplateTransaksi.resources
+C:\Ruby\Ruby\obj\x86\Release\Ruby.FormBukuBesar.resources
+C:\Ruby\Ruby\obj\x86\Release\Ruby.FormDaftarBarang.resources
+C:\Ruby\Ruby\obj\x86\Release\Ruby.FormDaftarHutangDagang.resources
+C:\Ruby\Ruby\obj\x86\Release\Ruby.FormDaftarPelanggan.resources
+C:\Ruby\Ruby\obj\x86\Release\Ruby.FormDaftarPiutangDagang.resources
+C:\Ruby\Ruby\obj\x86\Release\Ruby.FormDaftarSuplier.resources
+C:\Ruby\Ruby\obj\x86\Release\Ruby.FormDaftarTemplateTransaksi.resources
+C:\Ruby\Ruby\obj\x86\Release\Ruby.FormDaftarUmurHutang.resources
+C:\Ruby\Ruby\obj\x86\Release\Ruby.FormDaftarUmurPiutang.resources
+C:\Ruby\Ruby\obj\x86\Release\Ruby.FormDataAkun.resources
+C:\Ruby\Ruby\obj\x86\Release\Ruby.FormDataBarang.resources
+C:\Ruby\Ruby\obj\x86\Release\Ruby.FormDataKategori.resources
+C:\Ruby\Ruby\obj\x86\Release\Ruby.FormDataPelanggan.resources
+C:\Ruby\Ruby\obj\x86\Release\Ruby.FormDataPiutang.resources
+C:\Ruby\Ruby\obj\x86\Release\Ruby.FormDataTamplate.resources
+C:\Ruby\Ruby\obj\x86\Release\Ruby.FormEditAkun.resources
+C:\Ruby\Ruby\obj\x86\Release\Ruby.FormEditBarang.resources
+C:\Ruby\Ruby\obj\x86\Release\Ruby.FormEditKategori.resources
+C:\Ruby\Ruby\obj\x86\Release\Ruby.FormEditOperator.resources
+C:\Ruby\Ruby\obj\x86\Release\Ruby.FormEditPelanggan.resources
+C:\Ruby\Ruby\obj\x86\Release\Ruby.FormInputTransaksiLain.resources
+C:\Ruby\Ruby\obj\x86\Release\Ruby.FormJurnal.resources
+C:\Ruby\Ruby\obj\x86\Release\Ruby.FormJurnalPenyesuaian.resources
+C:\Ruby\Ruby\obj\x86\Release\Ruby.FormKasMasuk.resources
+C:\Ruby\Ruby\obj\x86\Release\Ruby.FormLabaRugi.resources
+C:\Ruby\Ruby\obj\x86\Release\Ruby.FormLogin.resources
+C:\Ruby\Ruby\obj\x86\Release\Ruby.FormNeracaAwal.resources
+C:\Ruby\Ruby\obj\x86\Release\Ruby.FormNol.resources
+C:\Ruby\Ruby\obj\x86\Release\Ruby.FormOperator.resources
+C:\Ruby\Ruby\obj\x86\Release\Ruby.FormPembelian.resources
+C:\Ruby\Ruby\obj\x86\Release\Ruby.FormProsesPembayaran.resources
+C:\Ruby\Ruby\obj\x86\Release\Ruby.FormSettingSistem.resources
+C:\Ruby\Ruby\obj\x86\Release\Ruby.FormTransaksi.resources
+C:\Ruby\Ruby\obj\x86\Release\Ruby.frmMain.resources
+C:\Ruby\Ruby\obj\x86\Release\Ruby.LaporanDaftarHutangDagang.resources
+C:\Ruby\Ruby\obj\x86\Release\Ruby.LaporanDaftarPiutangDagang.resources
+C:\Ruby\Ruby\obj\x86\Release\Ruby.LaporanLabaRugi.resources
+C:\Ruby\Ruby\obj\x86\Release\Ruby.LaporanNeracaSaldo.resources
+C:\Ruby\Ruby\obj\x86\Release\Ruby.Resources.resources
+C:\Ruby\Ruby\obj\x86\Release\Ruby.vbproj.GenerateResource.Cache
+C:\Ruby\Ruby\obj\x86\Release\Ruby.exe.licenses
+D:\VB\ON Doing\Ruby\Ruby\obj\x86\Release\Ruby.exe
+D:\VB\ON Doing\Ruby\Ruby\obj\x86\Release\Ruby.xml
+D:\VB\ON Doing\Ruby\Ruby\obj\x86\Release\Ruby.pdb
+D:\VB\ON Doing\Ruby\Ruby\bin\Release\Ruby.exe
+D:\VB\ON Doing\Ruby\Ruby\bin\Release\Ruby.pdb
+D:\VB\ON Doing\Ruby\Ruby\bin\Release\Ruby.xml
+D:\VB\ON Doing\Ruby\Ruby\bin\Release\System.Windows.Interactivity.dll
+D:\VB\ON Doing\Ruby\Ruby\bin\Release\System.Windows.Interactivity.xml
+D:\VB\ON Doing\Ruby\Ruby\obj\x86\Release\Ruby.vbprojResolveAssemblyReference.cache
+D:\VB\ON Doing\Ruby\Ruby\obj\x86\Release\Ruby.Form1.resources
+D:\VB\ON Doing\Ruby\Ruby\obj\x86\Release\Ruby.FormAddAkun.resources
+D:\VB\ON Doing\Ruby\Ruby\obj\x86\Release\Ruby.FormAddBarang.resources
+D:\VB\ON Doing\Ruby\Ruby\obj\x86\Release\Ruby.FormAddKategori.resources
+D:\VB\ON Doing\Ruby\Ruby\obj\x86\Release\Ruby.FormAddOperator.resources
+D:\VB\ON Doing\Ruby\Ruby\obj\x86\Release\Ruby.FormAddPelanggan.resources
+D:\VB\ON Doing\Ruby\Ruby\obj\x86\Release\Ruby.FormAddPembayaranPiutang.resources
+D:\VB\ON Doing\Ruby\Ruby\obj\x86\Release\Ruby.FormAddTemplateTransaksi.resources
+D:\VB\ON Doing\Ruby\Ruby\obj\x86\Release\Ruby.FormBukuBesar.resources
+D:\VB\ON Doing\Ruby\Ruby\obj\x86\Release\Ruby.FormDaftarBarang.resources
+D:\VB\ON Doing\Ruby\Ruby\obj\x86\Release\Ruby.FormDaftarHutangDagang.resources
+D:\VB\ON Doing\Ruby\Ruby\obj\x86\Release\Ruby.FormDaftarPelanggan.resources
+D:\VB\ON Doing\Ruby\Ruby\obj\x86\Release\Ruby.FormDaftarPiutangDagang.resources
+D:\VB\ON Doing\Ruby\Ruby\obj\x86\Release\Ruby.FormDaftarSuplier.resources
+D:\VB\ON Doing\Ruby\Ruby\obj\x86\Release\Ruby.FormDaftarTemplateTransaksi.resources
+D:\VB\ON Doing\Ruby\Ruby\obj\x86\Release\Ruby.FormDaftarUmurHutang.resources
+D:\VB\ON Doing\Ruby\Ruby\obj\x86\Release\Ruby.FormDaftarUmurPiutang.resources
+D:\VB\ON Doing\Ruby\Ruby\obj\x86\Release\Ruby.FormDataAkun.resources
+D:\VB\ON Doing\Ruby\Ruby\obj\x86\Release\Ruby.FormDataBarang.resources
+D:\VB\ON Doing\Ruby\Ruby\obj\x86\Release\Ruby.FormDataKategori.resources
+D:\VB\ON Doing\Ruby\Ruby\obj\x86\Release\Ruby.FormDataPelanggan.resources
+D:\VB\ON Doing\Ruby\Ruby\obj\x86\Release\Ruby.FormDataPiutang.resources
+D:\VB\ON Doing\Ruby\Ruby\obj\x86\Release\Ruby.FormDataTamplate.resources
+D:\VB\ON Doing\Ruby\Ruby\obj\x86\Release\Ruby.FormEditAkun.resources
+D:\VB\ON Doing\Ruby\Ruby\obj\x86\Release\Ruby.FormEditBarang.resources
+D:\VB\ON Doing\Ruby\Ruby\obj\x86\Release\Ruby.FormEditKategori.resources
+D:\VB\ON Doing\Ruby\Ruby\obj\x86\Release\Ruby.FormEditOperator.resources
+D:\VB\ON Doing\Ruby\Ruby\obj\x86\Release\Ruby.FormEditPelanggan.resources
+D:\VB\ON Doing\Ruby\Ruby\obj\x86\Release\Ruby.FormInputTransaksiLain.resources
+D:\VB\ON Doing\Ruby\Ruby\obj\x86\Release\Ruby.FormJurnal.resources
+D:\VB\ON Doing\Ruby\Ruby\obj\x86\Release\Ruby.FormJurnalPenyesuaian.resources
+D:\VB\ON Doing\Ruby\Ruby\obj\x86\Release\Ruby.FormKasMasuk.resources
+D:\VB\ON Doing\Ruby\Ruby\obj\x86\Release\Ruby.FormLabaRugi.resources
+D:\VB\ON Doing\Ruby\Ruby\obj\x86\Release\Ruby.FormLogin.resources
+D:\VB\ON Doing\Ruby\Ruby\obj\x86\Release\Ruby.FormNeracaAwal.resources
+D:\VB\ON Doing\Ruby\Ruby\obj\x86\Release\Ruby.FormNol.resources
+D:\VB\ON Doing\Ruby\Ruby\obj\x86\Release\Ruby.FormOperator.resources
+D:\VB\ON Doing\Ruby\Ruby\obj\x86\Release\Ruby.FormPembelian.resources
+D:\VB\ON Doing\Ruby\Ruby\obj\x86\Release\Ruby.FormProsesPembayaran.resources
+D:\VB\ON Doing\Ruby\Ruby\obj\x86\Release\Ruby.FormSettingSistem.resources
+D:\VB\ON Doing\Ruby\Ruby\obj\x86\Release\Ruby.FormTransaksi.resources
+D:\VB\ON Doing\Ruby\Ruby\obj\x86\Release\Ruby.frmMain.resources
+D:\VB\ON Doing\Ruby\Ruby\obj\x86\Release\Ruby.LaporanDaftarHutangDagang.resources
+D:\VB\ON Doing\Ruby\Ruby\obj\x86\Release\Ruby.LaporanDaftarPiutangDagang.resources
+D:\VB\ON Doing\Ruby\Ruby\obj\x86\Release\Ruby.LaporanLabaRugi.resources
+D:\VB\ON Doing\Ruby\Ruby\obj\x86\Release\Ruby.LaporanNeracaSaldo.resources
+D:\VB\ON Doing\Ruby\Ruby\obj\x86\Release\Ruby.Resources.resources
+D:\VB\ON Doing\Ruby\Ruby\obj\x86\Release\Ruby.vbproj.GenerateResource.Cache
+D:\VB\ON Doing\Ruby\Ruby\obj\x86\Release\Ruby.exe.licenses

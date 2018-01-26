@@ -1,0 +1,1167 @@
+D:\project\Ruby\Ruby\bin\Debug\Ruby.exe
+D:\project\Ruby\Ruby\bin\Debug\Ruby.pdb
+D:\project\Ruby\Ruby\bin\Debug\Ruby.xml
+D:\project\Ruby\Ruby\obj\x86\Debug\Ruby.FormDataAkun.resources
+D:\project\Ruby\Ruby\obj\x86\Debug\Ruby.Resources.resources
+D:\project\Ruby\Ruby\obj\x86\Debug\Ruby.vbproj.GenerateResource.Cache
+D:\project\Ruby\Ruby\obj\x86\Debug\Ruby.exe.licenses
+D:\project\Ruby\Ruby\obj\x86\Debug\Ruby.exe
+D:\project\Ruby\Ruby\obj\x86\Debug\Ruby.xml
+D:\project\Ruby\Ruby\obj\x86\Debug\Ruby.pdb
+D:\project\Ruby\Ruby\obj\x86\Debug\Ruby.FormAddAkun.resources
+D:\project\Ruby\Ruby\obj\x86\Debug\Ruby.FormEditAkun.resources
+D:\project\Ruby\Ruby\obj\x86\Debug\Ruby.FormAddTemplateTransaksi.resources
+D:\project\Ruby\Ruby\obj\x86\Debug\Ruby.FormDataTamplate.resources
+D:\project\Ruby\Ruby\obj\x86\Debug\Ruby.FormDaftarTemplateTransaksi.resources
+D:\project\Ruby\Ruby\obj\x86\Debug\Ruby.FormInputTransaksiLain.resources
+D:\project\Ruby\Ruby\obj\x86\Debug\Ruby.FormAddPelanggan.resources
+D:\project\Ruby\Ruby\obj\x86\Debug\Ruby.FormDataPelanggan.resources
+D:\project\Ruby\Ruby\obj\x86\Debug\Ruby.FormEditPelanggan.resources
+D:\project\Ruby\Ruby\obj\x86\Debug\Ruby.FormAddKategori.resources
+D:\project\Ruby\Ruby\obj\x86\Debug\Ruby.FormDataKategori.resources
+D:\project\Ruby\Ruby\obj\x86\Debug\Ruby.FormNol.resources
+D:\project\Ruby\Ruby\obj\x86\Debug\Ruby.FormEditKategori.resources
+D:\project\Ruby\Ruby\obj\x86\Debug\Ruby.FormAddBarang.resources
+D:\project\Ruby\Ruby\obj\x86\Debug\Ruby.FormDataBarang.resources
+D:\project\Ruby\Ruby\obj\x86\Debug\Ruby.FormEditBarang.resources
+D:\project\Ruby\Ruby\obj\x86\Debug\Ruby.FormDaftarPelanggan.resources
+D:\project\Ruby\Ruby\obj\x86\Debug\Ruby.FormProsesPembayaran.resources
+D:\project\Ruby\Ruby\obj\x86\Debug\Ruby.FormTransaksi.resources
+D:\project\Ruby\Ruby\obj\x86\Debug\Ruby.FormDaftarBarang.resources
+D:\EvoSolution\Ruby\Ruby\Ruby\obj\x86\Debug\Ruby.exe
+D:\EvoSolution\Ruby\Ruby\Ruby\obj\x86\Debug\Ruby.xml
+D:\EvoSolution\Ruby\Ruby\Ruby\obj\x86\Debug\Ruby.pdb
+D:\EvoSolution\Ruby\Ruby\Ruby\bin\Debug\Ruby.exe
+D:\EvoSolution\Ruby\Ruby\Ruby\bin\Debug\Ruby.pdb
+D:\EvoSolution\Ruby\Ruby\Ruby\bin\Debug\Ruby.xml
+D:\EvoSolution\Ruby\Ruby\Ruby\obj\x86\Debug\Ruby.FormAddAkun.resources
+D:\EvoSolution\Ruby\Ruby\Ruby\obj\x86\Debug\Ruby.FormAddBarang.resources
+D:\EvoSolution\Ruby\Ruby\Ruby\obj\x86\Debug\Ruby.FormAddKategori.resources
+D:\EvoSolution\Ruby\Ruby\Ruby\obj\x86\Debug\Ruby.FormAddPelanggan.resources
+D:\EvoSolution\Ruby\Ruby\Ruby\obj\x86\Debug\Ruby.FormAddTemplateTransaksi.resources
+D:\EvoSolution\Ruby\Ruby\Ruby\obj\x86\Debug\Ruby.FormDaftarBarang.resources
+D:\EvoSolution\Ruby\Ruby\Ruby\obj\x86\Debug\Ruby.FormDaftarPelanggan.resources
+D:\EvoSolution\Ruby\Ruby\Ruby\obj\x86\Debug\Ruby.FormDaftarTemplateTransaksi.resources
+D:\EvoSolution\Ruby\Ruby\Ruby\obj\x86\Debug\Ruby.FormDataAkun.resources
+D:\EvoSolution\Ruby\Ruby\Ruby\obj\x86\Debug\Ruby.FormDataBarang.resources
+D:\EvoSolution\Ruby\Ruby\Ruby\obj\x86\Debug\Ruby.FormDataKategori.resources
+D:\EvoSolution\Ruby\Ruby\Ruby\obj\x86\Debug\Ruby.FormDataPelanggan.resources
+D:\EvoSolution\Ruby\Ruby\Ruby\obj\x86\Debug\Ruby.FormDataTamplate.resources
+D:\EvoSolution\Ruby\Ruby\Ruby\obj\x86\Debug\Ruby.FormEditAkun.resources
+D:\EvoSolution\Ruby\Ruby\Ruby\obj\x86\Debug\Ruby.FormEditBarang.resources
+D:\EvoSolution\Ruby\Ruby\Ruby\obj\x86\Debug\Ruby.FormEditKategori.resources
+D:\EvoSolution\Ruby\Ruby\Ruby\obj\x86\Debug\Ruby.FormEditPelanggan.resources
+D:\EvoSolution\Ruby\Ruby\Ruby\obj\x86\Debug\Ruby.FormInputTransaksiLain.resources
+D:\EvoSolution\Ruby\Ruby\Ruby\obj\x86\Debug\Ruby.FormNol.resources
+D:\EvoSolution\Ruby\Ruby\Ruby\obj\x86\Debug\Ruby.FormProsesPembayaran.resources
+D:\EvoSolution\Ruby\Ruby\Ruby\obj\x86\Debug\Ruby.FormTransaksi.resources
+D:\EvoSolution\Ruby\Ruby\Ruby\obj\x86\Debug\Ruby.Resources.resources
+D:\EvoSolution\Ruby\Ruby\Ruby\obj\x86\Debug\Ruby.vbproj.GenerateResource.Cache
+D:\EvoSolution\Ruby\Ruby\Ruby\obj\x86\Debug\Ruby.exe.licenses
+D:\EvoSolution\Ruby\Ruby\Ruby\obj\x86\Debug\Ruby.FormAddPembayaranPiutang.resources
+D:\EvoSolution\Ruby\Ruby\Ruby\obj\x86\Debug\Ruby.FormDataPiutang.resources
+D:\EvoSolution\Ruby\Ruby\Ruby\obj\x86\Debug\Ruby.FormNeracaAwal.resources
+D:\EvoSolution\Ruby\Ruby\Ruby\obj\x86\Debug\Ruby.FormSettingSistem.resources
+D:\EvoSolution\Ruby\Ruby\Ruby\obj\x86\Debug\Ruby.FormDaftarUmurPiutang.resources
+D:\EvoSolution\newRuby\Ruby\Ruby\obj\x86\Debug\Ruby.exe
+D:\EvoSolution\newRuby\Ruby\Ruby\obj\x86\Debug\Ruby.xml
+D:\EvoSolution\newRuby\Ruby\Ruby\obj\x86\Debug\Ruby.pdb
+D:\EvoSolution\newRuby\Ruby\Ruby\bin\Debug\Ruby.exe
+D:\EvoSolution\newRuby\Ruby\Ruby\bin\Debug\Ruby.pdb
+D:\EvoSolution\newRuby\Ruby\Ruby\bin\Debug\Ruby.xml
+D:\EvoSolution\newRuby\Ruby\Ruby\bin\Debug\System.Windows.Interactivity.dll
+D:\EvoSolution\newRuby\Ruby\Ruby\bin\Debug\System.Windows.Interactivity.xml
+D:\EvoSolution\newRuby\Ruby\Ruby\obj\x86\Debug\Ruby.vbprojResolveAssemblyReference.cache
+D:\EvoSolution\newRuby\Ruby\Ruby\obj\x86\Debug\Ruby.FormAddAkun.resources
+D:\EvoSolution\newRuby\Ruby\Ruby\obj\x86\Debug\Ruby.FormAddBarang.resources
+D:\EvoSolution\newRuby\Ruby\Ruby\obj\x86\Debug\Ruby.FormAddKategori.resources
+D:\EvoSolution\newRuby\Ruby\Ruby\obj\x86\Debug\Ruby.FormAddPelanggan.resources
+D:\EvoSolution\newRuby\Ruby\Ruby\obj\x86\Debug\Ruby.FormAddPembayaranPiutang.resources
+D:\EvoSolution\newRuby\Ruby\Ruby\obj\x86\Debug\Ruby.FormAddTemplateTransaksi.resources
+D:\EvoSolution\newRuby\Ruby\Ruby\obj\x86\Debug\Ruby.FormBukuBesar.resources
+D:\EvoSolution\newRuby\Ruby\Ruby\obj\x86\Debug\Ruby.FormDaftarBarang.resources
+D:\EvoSolution\newRuby\Ruby\Ruby\obj\x86\Debug\Ruby.FormDaftarHutangDagang.resources
+D:\EvoSolution\newRuby\Ruby\Ruby\obj\x86\Debug\Ruby.FormDaftarPelanggan.resources
+D:\EvoSolution\newRuby\Ruby\Ruby\obj\x86\Debug\Ruby.FormDaftarPiutangDagang.resources
+D:\EvoSolution\newRuby\Ruby\Ruby\obj\x86\Debug\Ruby.FormDaftarSuplier.resources
+D:\EvoSolution\newRuby\Ruby\Ruby\obj\x86\Debug\Ruby.FormDaftarTemplateTransaksi.resources
+D:\EvoSolution\newRuby\Ruby\Ruby\obj\x86\Debug\Ruby.FormDaftarUmurHutang.resources
+D:\EvoSolution\newRuby\Ruby\Ruby\obj\x86\Debug\Ruby.FormDaftarUmurPiutang.resources
+D:\EvoSolution\newRuby\Ruby\Ruby\obj\x86\Debug\Ruby.FormDataAkun.resources
+D:\EvoSolution\newRuby\Ruby\Ruby\obj\x86\Debug\Ruby.FormDataBarang.resources
+D:\EvoSolution\newRuby\Ruby\Ruby\obj\x86\Debug\Ruby.FormDataKategori.resources
+D:\EvoSolution\newRuby\Ruby\Ruby\obj\x86\Debug\Ruby.FormDataPelanggan.resources
+D:\EvoSolution\newRuby\Ruby\Ruby\obj\x86\Debug\Ruby.FormDataPiutang.resources
+D:\EvoSolution\newRuby\Ruby\Ruby\obj\x86\Debug\Ruby.FormDataTamplate.resources
+D:\EvoSolution\newRuby\Ruby\Ruby\obj\x86\Debug\Ruby.FormEditAkun.resources
+D:\EvoSolution\newRuby\Ruby\Ruby\obj\x86\Debug\Ruby.FormEditBarang.resources
+D:\EvoSolution\newRuby\Ruby\Ruby\obj\x86\Debug\Ruby.FormEditKategori.resources
+D:\EvoSolution\newRuby\Ruby\Ruby\obj\x86\Debug\Ruby.FormEditPelanggan.resources
+D:\EvoSolution\newRuby\Ruby\Ruby\obj\x86\Debug\Ruby.FormInputTransaksiLain.resources
+D:\EvoSolution\newRuby\Ruby\Ruby\obj\x86\Debug\Ruby.FormJurnal.resources
+D:\EvoSolution\newRuby\Ruby\Ruby\obj\x86\Debug\Ruby.FormKasMasuk.resources
+D:\EvoSolution\newRuby\Ruby\Ruby\obj\x86\Debug\Ruby.FormNeracaAwal.resources
+D:\EvoSolution\newRuby\Ruby\Ruby\obj\x86\Debug\Ruby.FormNol.resources
+D:\EvoSolution\newRuby\Ruby\Ruby\obj\x86\Debug\Ruby.FormPembelian.resources
+D:\EvoSolution\newRuby\Ruby\Ruby\obj\x86\Debug\Ruby.FormProsesPembayaran.resources
+D:\EvoSolution\newRuby\Ruby\Ruby\obj\x86\Debug\Ruby.FormSettingSistem.resources
+D:\EvoSolution\newRuby\Ruby\Ruby\obj\x86\Debug\Ruby.FormTransaksi.resources
+D:\EvoSolution\newRuby\Ruby\Ruby\obj\x86\Debug\Ruby.frmMain.resources
+D:\EvoSolution\newRuby\Ruby\Ruby\obj\x86\Debug\Ruby.LaporanDaftarHutangDagang.resources
+D:\EvoSolution\newRuby\Ruby\Ruby\obj\x86\Debug\Ruby.LaporanDaftarPiutangDagang.resources
+D:\EvoSolution\newRuby\Ruby\Ruby\obj\x86\Debug\Ruby.Resources.resources
+D:\EvoSolution\newRuby\Ruby\Ruby\obj\x86\Debug\Ruby.vbproj.GenerateResource.Cache
+D:\EvoSolution\newRuby\Ruby\Ruby\obj\x86\Debug\Ruby.exe.licenses
+D:\EvoSolution\newRuby\Ruby\Ruby\obj\x86\Debug\Ruby.Form1.resources
+D:\EvoSolution\newRuby\Ruby\Ruby\obj\x86\Debug\Ruby.FormLabaRugi.resources
+D:\Project\BaliSarana\Ruby\Ruby\obj\x86\Debug\Ruby.exe
+D:\Project\BaliSarana\Ruby\Ruby\obj\x86\Debug\Ruby.xml
+D:\Project\BaliSarana\Ruby\Ruby\obj\x86\Debug\Ruby.pdb
+D:\Project\BaliSarana\Ruby\Ruby\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Project\BaliSarana\Ruby\Ruby\obj\x86\Debug\Ruby.Form1.resources
+D:\Project\BaliSarana\Ruby\Ruby\obj\x86\Debug\Ruby.FormAddAkun.resources
+D:\Project\BaliSarana\Ruby\Ruby\obj\x86\Debug\Ruby.FormAddBarang.resources
+D:\Project\BaliSarana\Ruby\Ruby\obj\x86\Debug\Ruby.FormAddKategori.resources
+D:\Project\BaliSarana\Ruby\Ruby\obj\x86\Debug\Ruby.FormAddPelanggan.resources
+D:\Project\BaliSarana\Ruby\Ruby\obj\x86\Debug\Ruby.FormAddPembayaranPiutang.resources
+D:\Project\BaliSarana\Ruby\Ruby\obj\x86\Debug\Ruby.FormAddTemplateTransaksi.resources
+D:\Project\BaliSarana\Ruby\Ruby\obj\x86\Debug\Ruby.FormBukuBesar.resources
+D:\Project\BaliSarana\Ruby\Ruby\obj\x86\Debug\Ruby.FormDaftarBarang.resources
+D:\Project\BaliSarana\Ruby\Ruby\obj\x86\Debug\Ruby.FormDaftarHutangDagang.resources
+D:\Project\BaliSarana\Ruby\Ruby\obj\x86\Debug\Ruby.FormDaftarPelanggan.resources
+D:\Project\BaliSarana\Ruby\Ruby\obj\x86\Debug\Ruby.FormDaftarPiutangDagang.resources
+D:\Project\BaliSarana\Ruby\Ruby\obj\x86\Debug\Ruby.FormDaftarSuplier.resources
+D:\Project\BaliSarana\Ruby\Ruby\obj\x86\Debug\Ruby.FormDaftarTemplateTransaksi.resources
+D:\Project\BaliSarana\Ruby\Ruby\obj\x86\Debug\Ruby.FormDaftarUmurHutang.resources
+D:\Project\BaliSarana\Ruby\Ruby\obj\x86\Debug\Ruby.FormDaftarUmurPiutang.resources
+D:\Project\BaliSarana\Ruby\Ruby\obj\x86\Debug\Ruby.FormDataAkun.resources
+D:\Project\BaliSarana\Ruby\Ruby\obj\x86\Debug\Ruby.FormDataBarang.resources
+D:\Project\BaliSarana\Ruby\Ruby\obj\x86\Debug\Ruby.FormDataKategori.resources
+D:\Project\BaliSarana\Ruby\Ruby\obj\x86\Debug\Ruby.FormDataPelanggan.resources
+D:\Project\BaliSarana\Ruby\Ruby\obj\x86\Debug\Ruby.FormDataPiutang.resources
+D:\Project\BaliSarana\Ruby\Ruby\obj\x86\Debug\Ruby.FormDataTamplate.resources
+D:\Project\BaliSarana\Ruby\Ruby\obj\x86\Debug\Ruby.FormEditAkun.resources
+D:\Project\BaliSarana\Ruby\Ruby\obj\x86\Debug\Ruby.FormEditBarang.resources
+D:\Project\BaliSarana\Ruby\Ruby\obj\x86\Debug\Ruby.FormEditKategori.resources
+D:\Project\BaliSarana\Ruby\Ruby\obj\x86\Debug\Ruby.FormEditPelanggan.resources
+D:\Project\BaliSarana\Ruby\Ruby\obj\x86\Debug\Ruby.FormInputTransaksiLain.resources
+D:\Project\BaliSarana\Ruby\Ruby\obj\x86\Debug\Ruby.FormJurnal.resources
+D:\Project\BaliSarana\Ruby\Ruby\obj\x86\Debug\Ruby.FormKasMasuk.resources
+D:\Project\BaliSarana\Ruby\Ruby\obj\x86\Debug\Ruby.FormLabaRugi.resources
+D:\Project\BaliSarana\Ruby\Ruby\obj\x86\Debug\Ruby.FormNeracaAwal.resources
+D:\Project\BaliSarana\Ruby\Ruby\obj\x86\Debug\Ruby.FormNol.resources
+D:\Project\BaliSarana\Ruby\Ruby\obj\x86\Debug\Ruby.FormPembelian.resources
+D:\Project\BaliSarana\Ruby\Ruby\obj\x86\Debug\Ruby.FormProsesPembayaran.resources
+D:\Project\BaliSarana\Ruby\Ruby\obj\x86\Debug\Ruby.FormSettingSistem.resources
+D:\Project\BaliSarana\Ruby\Ruby\obj\x86\Debug\Ruby.FormTransaksi.resources
+D:\Project\BaliSarana\Ruby\Ruby\obj\x86\Debug\Ruby.frmMain.resources
+D:\Project\BaliSarana\Ruby\Ruby\obj\x86\Debug\Ruby.LaporanDaftarHutangDagang.resources
+D:\Project\BaliSarana\Ruby\Ruby\obj\x86\Debug\Ruby.LaporanDaftarPiutangDagang.resources
+D:\Project\BaliSarana\Ruby\Ruby\obj\x86\Debug\Ruby.Resources.resources
+D:\Project\BaliSarana\Ruby\Ruby\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Project\BaliSarana\Ruby\Ruby\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Project\BaliSarana\Ruby\Ruby\obj\x86\Debug\Ruby.exe.licenses
+D:\Project\BaliSarana\Ruby\Ruby\bin\Debug\Ruby.exe
+D:\Project\BaliSarana\Ruby\Ruby\bin\Debug\Ruby.pdb
+D:\Project\BaliSarana\Ruby\Ruby\bin\Debug\Ruby.xml
+D:\Project\BaliSarana\Ruby\Ruby\bin\Debug\System.Windows.Interactivity.dll
+D:\Project\BaliSarana\Ruby\Ruby\bin\Debug\System.Windows.Interactivity.xml
+D:\project\RUBY NEW\Ruby\Ruby\obj\x86\Debug\Ruby.exe
+D:\project\RUBY NEW\Ruby\Ruby\obj\x86\Debug\Ruby.xml
+D:\project\RUBY NEW\Ruby\Ruby\obj\x86\Debug\Ruby.pdb
+D:\project\RUBY NEW\Ruby\Ruby\bin\Debug\Ruby.exe
+D:\project\RUBY NEW\Ruby\Ruby\bin\Debug\Ruby.pdb
+D:\project\RUBY NEW\Ruby\Ruby\bin\Debug\Ruby.xml
+D:\project\RUBY NEW\Ruby\Ruby\bin\Debug\System.Windows.Interactivity.dll
+D:\project\RUBY NEW\Ruby\Ruby\bin\Debug\System.Windows.Interactivity.xml
+D:\project\RUBY NEW\Ruby\Ruby\obj\x86\Debug\Ruby.Form1.resources
+D:\project\RUBY NEW\Ruby\Ruby\obj\x86\Debug\Ruby.FormAddAkun.resources
+D:\project\RUBY NEW\Ruby\Ruby\obj\x86\Debug\Ruby.FormAddBarang.resources
+D:\project\RUBY NEW\Ruby\Ruby\obj\x86\Debug\Ruby.FormAddKategori.resources
+D:\project\RUBY NEW\Ruby\Ruby\obj\x86\Debug\Ruby.FormAddOperator.resources
+D:\project\RUBY NEW\Ruby\Ruby\obj\x86\Debug\Ruby.FormAddPelanggan.resources
+D:\project\RUBY NEW\Ruby\Ruby\obj\x86\Debug\Ruby.FormAddPembayaranPiutang.resources
+D:\project\RUBY NEW\Ruby\Ruby\obj\x86\Debug\Ruby.FormAddTemplateTransaksi.resources
+D:\project\RUBY NEW\Ruby\Ruby\obj\x86\Debug\Ruby.FormBukuBesar.resources
+D:\project\RUBY NEW\Ruby\Ruby\obj\x86\Debug\Ruby.FormDaftarBarang.resources
+D:\project\RUBY NEW\Ruby\Ruby\obj\x86\Debug\Ruby.FormDaftarHutangDagang.resources
+D:\project\RUBY NEW\Ruby\Ruby\obj\x86\Debug\Ruby.FormDaftarPelanggan.resources
+D:\project\RUBY NEW\Ruby\Ruby\obj\x86\Debug\Ruby.FormDaftarPiutangDagang.resources
+D:\project\RUBY NEW\Ruby\Ruby\obj\x86\Debug\Ruby.FormDaftarSuplier.resources
+D:\project\RUBY NEW\Ruby\Ruby\obj\x86\Debug\Ruby.FormDaftarTemplateTransaksi.resources
+D:\project\RUBY NEW\Ruby\Ruby\obj\x86\Debug\Ruby.FormDaftarUmurHutang.resources
+D:\project\RUBY NEW\Ruby\Ruby\obj\x86\Debug\Ruby.FormDaftarUmurPiutang.resources
+D:\project\RUBY NEW\Ruby\Ruby\obj\x86\Debug\Ruby.FormDataAkun.resources
+D:\project\RUBY NEW\Ruby\Ruby\obj\x86\Debug\Ruby.FormDataBarang.resources
+D:\project\RUBY NEW\Ruby\Ruby\obj\x86\Debug\Ruby.FormDataKategori.resources
+D:\project\RUBY NEW\Ruby\Ruby\obj\x86\Debug\Ruby.FormDataPelanggan.resources
+D:\project\RUBY NEW\Ruby\Ruby\obj\x86\Debug\Ruby.FormDataPiutang.resources
+D:\project\RUBY NEW\Ruby\Ruby\obj\x86\Debug\Ruby.FormDataTamplate.resources
+D:\project\RUBY NEW\Ruby\Ruby\obj\x86\Debug\Ruby.FormEditAkun.resources
+D:\project\RUBY NEW\Ruby\Ruby\obj\x86\Debug\Ruby.FormEditBarang.resources
+D:\project\RUBY NEW\Ruby\Ruby\obj\x86\Debug\Ruby.FormEditKategori.resources
+D:\project\RUBY NEW\Ruby\Ruby\obj\x86\Debug\Ruby.FormEditPelanggan.resources
+D:\project\RUBY NEW\Ruby\Ruby\obj\x86\Debug\Ruby.FormInputTransaksiLain.resources
+D:\project\RUBY NEW\Ruby\Ruby\obj\x86\Debug\Ruby.FormJurnal.resources
+D:\project\RUBY NEW\Ruby\Ruby\obj\x86\Debug\Ruby.FormKasMasuk.resources
+D:\project\RUBY NEW\Ruby\Ruby\obj\x86\Debug\Ruby.FormLabaRugi.resources
+D:\project\RUBY NEW\Ruby\Ruby\obj\x86\Debug\Ruby.FormNeracaAwal.resources
+D:\project\RUBY NEW\Ruby\Ruby\obj\x86\Debug\Ruby.FormNol.resources
+D:\project\RUBY NEW\Ruby\Ruby\obj\x86\Debug\Ruby.FormOperator.resources
+D:\project\RUBY NEW\Ruby\Ruby\obj\x86\Debug\Ruby.FormPembelian.resources
+D:\project\RUBY NEW\Ruby\Ruby\obj\x86\Debug\Ruby.FormProsesPembayaran.resources
+D:\project\RUBY NEW\Ruby\Ruby\obj\x86\Debug\Ruby.FormSettingSistem.resources
+D:\project\RUBY NEW\Ruby\Ruby\obj\x86\Debug\Ruby.FormTransaksi.resources
+D:\project\RUBY NEW\Ruby\Ruby\obj\x86\Debug\Ruby.frmMain.resources
+D:\project\RUBY NEW\Ruby\Ruby\obj\x86\Debug\Ruby.LaporanDaftarHutangDagang.resources
+D:\project\RUBY NEW\Ruby\Ruby\obj\x86\Debug\Ruby.LaporanDaftarPiutangDagang.resources
+D:\project\RUBY NEW\Ruby\Ruby\obj\x86\Debug\Ruby.Resources.resources
+D:\project\RUBY NEW\Ruby\Ruby\obj\x86\Debug\Ruby.vbproj.GenerateResource.Cache
+D:\project\RUBY NEW\Ruby\Ruby\obj\x86\Debug\Ruby.exe.licenses
+D:\project\RUBY NEW\Ruby\Ruby\obj\x86\Debug\Ruby.FormEditOperator.resources
+D:\project\RUBY NEW\Ruby\Ruby\obj\x86\Debug\Ruby.FormLogin.resources
+D:\project\RUBY NEW\Ruby\Ruby\obj\x86\Debug\Ruby.LaporanNeracaSaldo.resources
+D:\project\RUBY NEW\Ruby\Ruby\obj\x86\Debug\Ruby.vbprojResolveAssemblyReference.cache
+D:\project\RUBY NEW\Ruby\Ruby\obj\x86\Debug\Ruby.LaporanLabaRugi.resources
+D:\EvoSolution\Ruby\RUBY NEW\Ruby\Ruby\obj\x86\Debug\Ruby.exe
+D:\EvoSolution\Ruby\RUBY NEW\Ruby\Ruby\obj\x86\Debug\Ruby.xml
+D:\EvoSolution\Ruby\RUBY NEW\Ruby\Ruby\obj\x86\Debug\Ruby.pdb
+D:\EvoSolution\Ruby\RUBY NEW\Ruby\Ruby\bin\Debug\Ruby.exe
+D:\EvoSolution\Ruby\RUBY NEW\Ruby\Ruby\bin\Debug\Ruby.pdb
+D:\EvoSolution\Ruby\RUBY NEW\Ruby\Ruby\bin\Debug\Ruby.xml
+D:\EvoSolution\Ruby\RUBY NEW\Ruby\Ruby\bin\Debug\System.Windows.Interactivity.dll
+D:\EvoSolution\Ruby\RUBY NEW\Ruby\Ruby\bin\Debug\System.Windows.Interactivity.xml
+D:\EvoSolution\Ruby\RUBY NEW\Ruby\Ruby\obj\x86\Debug\Ruby.vbprojResolveAssemblyReference.cache
+D:\EvoSolution\Ruby\RUBY NEW\Ruby\Ruby\obj\x86\Debug\Ruby.Form1.resources
+D:\EvoSolution\Ruby\RUBY NEW\Ruby\Ruby\obj\x86\Debug\Ruby.FormAddAkun.resources
+D:\EvoSolution\Ruby\RUBY NEW\Ruby\Ruby\obj\x86\Debug\Ruby.FormAddBarang.resources
+D:\EvoSolution\Ruby\RUBY NEW\Ruby\Ruby\obj\x86\Debug\Ruby.FormAddKategori.resources
+D:\EvoSolution\Ruby\RUBY NEW\Ruby\Ruby\obj\x86\Debug\Ruby.FormAddOperator.resources
+D:\EvoSolution\Ruby\RUBY NEW\Ruby\Ruby\obj\x86\Debug\Ruby.FormAddPelanggan.resources
+D:\EvoSolution\Ruby\RUBY NEW\Ruby\Ruby\obj\x86\Debug\Ruby.FormAddPembayaranPiutang.resources
+D:\EvoSolution\Ruby\RUBY NEW\Ruby\Ruby\obj\x86\Debug\Ruby.FormAddTemplateTransaksi.resources
+D:\EvoSolution\Ruby\RUBY NEW\Ruby\Ruby\obj\x86\Debug\Ruby.FormBukuBesar.resources
+D:\EvoSolution\Ruby\RUBY NEW\Ruby\Ruby\obj\x86\Debug\Ruby.FormDaftarBarang.resources
+D:\EvoSolution\Ruby\RUBY NEW\Ruby\Ruby\obj\x86\Debug\Ruby.FormDaftarHutangDagang.resources
+D:\EvoSolution\Ruby\RUBY NEW\Ruby\Ruby\obj\x86\Debug\Ruby.FormDaftarPelanggan.resources
+D:\EvoSolution\Ruby\RUBY NEW\Ruby\Ruby\obj\x86\Debug\Ruby.FormDaftarPiutangDagang.resources
+D:\EvoSolution\Ruby\RUBY NEW\Ruby\Ruby\obj\x86\Debug\Ruby.FormDaftarSuplier.resources
+D:\EvoSolution\Ruby\RUBY NEW\Ruby\Ruby\obj\x86\Debug\Ruby.FormDaftarTemplateTransaksi.resources
+D:\EvoSolution\Ruby\RUBY NEW\Ruby\Ruby\obj\x86\Debug\Ruby.FormDaftarUmurHutang.resources
+D:\EvoSolution\Ruby\RUBY NEW\Ruby\Ruby\obj\x86\Debug\Ruby.FormDaftarUmurPiutang.resources
+D:\EvoSolution\Ruby\RUBY NEW\Ruby\Ruby\obj\x86\Debug\Ruby.FormDataAkun.resources
+D:\EvoSolution\Ruby\RUBY NEW\Ruby\Ruby\obj\x86\Debug\Ruby.FormDataBarang.resources
+D:\EvoSolution\Ruby\RUBY NEW\Ruby\Ruby\obj\x86\Debug\Ruby.FormDataKategori.resources
+D:\EvoSolution\Ruby\RUBY NEW\Ruby\Ruby\obj\x86\Debug\Ruby.FormDataPelanggan.resources
+D:\EvoSolution\Ruby\RUBY NEW\Ruby\Ruby\obj\x86\Debug\Ruby.FormDataPiutang.resources
+D:\EvoSolution\Ruby\RUBY NEW\Ruby\Ruby\obj\x86\Debug\Ruby.FormDataTamplate.resources
+D:\EvoSolution\Ruby\RUBY NEW\Ruby\Ruby\obj\x86\Debug\Ruby.FormEditAkun.resources
+D:\EvoSolution\Ruby\RUBY NEW\Ruby\Ruby\obj\x86\Debug\Ruby.FormEditBarang.resources
+D:\EvoSolution\Ruby\RUBY NEW\Ruby\Ruby\obj\x86\Debug\Ruby.FormEditKategori.resources
+D:\EvoSolution\Ruby\RUBY NEW\Ruby\Ruby\obj\x86\Debug\Ruby.FormEditOperator.resources
+D:\EvoSolution\Ruby\RUBY NEW\Ruby\Ruby\obj\x86\Debug\Ruby.FormEditPelanggan.resources
+D:\EvoSolution\Ruby\RUBY NEW\Ruby\Ruby\obj\x86\Debug\Ruby.FormInputTransaksiLain.resources
+D:\EvoSolution\Ruby\RUBY NEW\Ruby\Ruby\obj\x86\Debug\Ruby.FormJurnal.resources
+D:\EvoSolution\Ruby\RUBY NEW\Ruby\Ruby\obj\x86\Debug\Ruby.FormKasMasuk.resources
+D:\EvoSolution\Ruby\RUBY NEW\Ruby\Ruby\obj\x86\Debug\Ruby.FormLabaRugi.resources
+D:\EvoSolution\Ruby\RUBY NEW\Ruby\Ruby\obj\x86\Debug\Ruby.FormLogin.resources
+D:\EvoSolution\Ruby\RUBY NEW\Ruby\Ruby\obj\x86\Debug\Ruby.FormNeracaAwal.resources
+D:\EvoSolution\Ruby\RUBY NEW\Ruby\Ruby\obj\x86\Debug\Ruby.FormNol.resources
+D:\EvoSolution\Ruby\RUBY NEW\Ruby\Ruby\obj\x86\Debug\Ruby.FormOperator.resources
+D:\EvoSolution\Ruby\RUBY NEW\Ruby\Ruby\obj\x86\Debug\Ruby.FormPembelian.resources
+D:\EvoSolution\Ruby\RUBY NEW\Ruby\Ruby\obj\x86\Debug\Ruby.FormProsesPembayaran.resources
+D:\EvoSolution\Ruby\RUBY NEW\Ruby\Ruby\obj\x86\Debug\Ruby.FormSettingSistem.resources
+D:\EvoSolution\Ruby\RUBY NEW\Ruby\Ruby\obj\x86\Debug\Ruby.FormTransaksi.resources
+D:\EvoSolution\Ruby\RUBY NEW\Ruby\Ruby\obj\x86\Debug\Ruby.frmMain.resources
+D:\EvoSolution\Ruby\RUBY NEW\Ruby\Ruby\obj\x86\Debug\Ruby.LaporanDaftarHutangDagang.resources
+D:\EvoSolution\Ruby\RUBY NEW\Ruby\Ruby\obj\x86\Debug\Ruby.LaporanDaftarPiutangDagang.resources
+D:\EvoSolution\Ruby\RUBY NEW\Ruby\Ruby\obj\x86\Debug\Ruby.LaporanLabaRugi.resources
+D:\EvoSolution\Ruby\RUBY NEW\Ruby\Ruby\obj\x86\Debug\Ruby.LaporanNeracaSaldo.resources
+D:\EvoSolution\Ruby\RUBY NEW\Ruby\Ruby\obj\x86\Debug\Ruby.Resources.resources
+D:\EvoSolution\Ruby\RUBY NEW\Ruby\Ruby\obj\x86\Debug\Ruby.vbproj.GenerateResource.Cache
+D:\EvoSolution\Ruby\RUBY NEW\Ruby\Ruby\obj\x86\Debug\Ruby.exe.licenses
+D:\VB\ON Doing\Ruby\Ruby\obj\x86\Debug\Ruby.exe
+D:\VB\ON Doing\Ruby\Ruby\obj\x86\Debug\Ruby.xml
+D:\VB\ON Doing\Ruby\Ruby\obj\x86\Debug\Ruby.pdb
+D:\VB\ON Doing\Ruby\Ruby\bin\Debug\Ruby.exe
+D:\VB\ON Doing\Ruby\Ruby\bin\Debug\Ruby.pdb
+D:\VB\ON Doing\Ruby\Ruby\bin\Debug\Ruby.xml
+D:\VB\ON Doing\Ruby\Ruby\bin\Debug\System.Windows.Interactivity.dll
+D:\VB\ON Doing\Ruby\Ruby\bin\Debug\System.Windows.Interactivity.xml
+D:\VB\ON Doing\Ruby\Ruby\obj\x86\Debug\Ruby.vbprojResolveAssemblyReference.cache
+D:\VB\ON Doing\Ruby\Ruby\obj\x86\Debug\Ruby.Form1.resources
+D:\VB\ON Doing\Ruby\Ruby\obj\x86\Debug\Ruby.FormAddAkun.resources
+D:\VB\ON Doing\Ruby\Ruby\obj\x86\Debug\Ruby.FormAddBarang.resources
+D:\VB\ON Doing\Ruby\Ruby\obj\x86\Debug\Ruby.FormAddKategori.resources
+D:\VB\ON Doing\Ruby\Ruby\obj\x86\Debug\Ruby.FormAddOperator.resources
+D:\VB\ON Doing\Ruby\Ruby\obj\x86\Debug\Ruby.FormAddPelanggan.resources
+D:\VB\ON Doing\Ruby\Ruby\obj\x86\Debug\Ruby.FormAddPembayaranPiutang.resources
+D:\VB\ON Doing\Ruby\Ruby\obj\x86\Debug\Ruby.FormAddTemplateTransaksi.resources
+D:\VB\ON Doing\Ruby\Ruby\obj\x86\Debug\Ruby.FormBukuBesar.resources
+D:\VB\ON Doing\Ruby\Ruby\obj\x86\Debug\Ruby.FormDaftarBarang.resources
+D:\VB\ON Doing\Ruby\Ruby\obj\x86\Debug\Ruby.FormDaftarHutangDagang.resources
+D:\VB\ON Doing\Ruby\Ruby\obj\x86\Debug\Ruby.FormDaftarJenisBarang.resources
+D:\VB\ON Doing\Ruby\Ruby\obj\x86\Debug\Ruby.FormDaftarPelanggan.resources
+D:\VB\ON Doing\Ruby\Ruby\obj\x86\Debug\Ruby.FormDaftarPiutangDagang.resources
+D:\VB\ON Doing\Ruby\Ruby\obj\x86\Debug\Ruby.FormDaftarSuplier.resources
+D:\VB\ON Doing\Ruby\Ruby\obj\x86\Debug\Ruby.FormDaftarTemplateTransaksi.resources
+D:\VB\ON Doing\Ruby\Ruby\obj\x86\Debug\Ruby.FormDaftarUmurHutang.resources
+D:\VB\ON Doing\Ruby\Ruby\obj\x86\Debug\Ruby.FormDaftarUmurPiutang.resources
+D:\VB\ON Doing\Ruby\Ruby\obj\x86\Debug\Ruby.FormDataAkun.resources
+D:\VB\ON Doing\Ruby\Ruby\obj\x86\Debug\Ruby.FormDataBarang.resources
+D:\VB\ON Doing\Ruby\Ruby\obj\x86\Debug\Ruby.FormDataKategori.resources
+D:\VB\ON Doing\Ruby\Ruby\obj\x86\Debug\Ruby.FormDataPelanggan.resources
+D:\VB\ON Doing\Ruby\Ruby\obj\x86\Debug\Ruby.FormDataPiutang.resources
+D:\VB\ON Doing\Ruby\Ruby\obj\x86\Debug\Ruby.FormDataTamplate.resources
+D:\VB\ON Doing\Ruby\Ruby\obj\x86\Debug\Ruby.FormEditAkun.resources
+D:\VB\ON Doing\Ruby\Ruby\obj\x86\Debug\Ruby.FormEditBarang.resources
+D:\VB\ON Doing\Ruby\Ruby\obj\x86\Debug\Ruby.FormEditKategori.resources
+D:\VB\ON Doing\Ruby\Ruby\obj\x86\Debug\Ruby.FormEditOperator.resources
+D:\VB\ON Doing\Ruby\Ruby\obj\x86\Debug\Ruby.FormEditPelanggan.resources
+D:\VB\ON Doing\Ruby\Ruby\obj\x86\Debug\Ruby.FormInputTransaksiLain.resources
+D:\VB\ON Doing\Ruby\Ruby\obj\x86\Debug\Ruby.FormJurnal.resources
+D:\VB\ON Doing\Ruby\Ruby\obj\x86\Debug\Ruby.FormJurnalPenyesuaian.resources
+D:\VB\ON Doing\Ruby\Ruby\obj\x86\Debug\Ruby.FormKasMasuk.resources
+D:\VB\ON Doing\Ruby\Ruby\obj\x86\Debug\Ruby.FormLabaRugi.resources
+D:\VB\ON Doing\Ruby\Ruby\obj\x86\Debug\Ruby.FormLogin.resources
+D:\VB\ON Doing\Ruby\Ruby\obj\x86\Debug\Ruby.FormNeracaAwal.resources
+D:\VB\ON Doing\Ruby\Ruby\obj\x86\Debug\Ruby.FormNol.resources
+D:\VB\ON Doing\Ruby\Ruby\obj\x86\Debug\Ruby.FormOperator.resources
+D:\VB\ON Doing\Ruby\Ruby\obj\x86\Debug\Ruby.FormPembelian.resources
+D:\VB\ON Doing\Ruby\Ruby\obj\x86\Debug\Ruby.FormProsesPembayaran.resources
+D:\VB\ON Doing\Ruby\Ruby\obj\x86\Debug\Ruby.FormSettingSistem.resources
+D:\VB\ON Doing\Ruby\Ruby\obj\x86\Debug\Ruby.FormTransaksi.resources
+D:\VB\ON Doing\Ruby\Ruby\obj\x86\Debug\Ruby.frmMain.resources
+D:\VB\ON Doing\Ruby\Ruby\obj\x86\Debug\Ruby.LaporanDaftarHutangDagang.resources
+D:\VB\ON Doing\Ruby\Ruby\obj\x86\Debug\Ruby.LaporanDaftarPiutangDagang.resources
+D:\VB\ON Doing\Ruby\Ruby\obj\x86\Debug\Ruby.LaporanLabaRugi.resources
+D:\VB\ON Doing\Ruby\Ruby\obj\x86\Debug\Ruby.LaporanNeracaSaldo.resources
+D:\VB\ON Doing\Ruby\Ruby\obj\x86\Debug\Ruby.Resources.resources
+D:\VB\ON Doing\Ruby\Ruby\obj\x86\Debug\Ruby.vbproj.GenerateResource.Cache
+D:\VB\ON Doing\Ruby\Ruby\obj\x86\Debug\Ruby.exe.licenses
+D:\VB\ON Doing\Ruby\Ruby\obj\x86\Debug\Ruby.FormAddJenisBarang.resources
+D:\VB\ON Doing\Ruby\Ruby\obj\x86\Debug\Ruby.FormEditJenisBarang.resources
+D:\VB\ON Doing\Ruby\Ruby\obj\x86\Debug\Ruby.FormAddSuplier.resources
+D:\VB\ON Doing\Ruby\Ruby\obj\x86\Debug\Ruby.FormDataSuplier.resources
+D:\VB\ON Doing\Ruby\Ruby\obj\x86\Debug\Ruby.FormEditSuplier.resources
+D:\VB\ON Doing\Ruby\Ruby\obj\x86\Debug\Ruby.FormDataPemesananBarang.resources
+D:\VB\ON Doing\Ruby\Ruby\obj\x86\Debug\Ruby.FormAddPemesananBarang.resources
+D:\VB\ON Doing\Ruby\Ruby\obj\x86\Debug\Ruby.FormAddBarangPesanan.resources
+D:\VB\ON Doing\Ruby\Ruby\obj\x86\Debug\Ruby.FormPenjualanBarangPerDistributor.resources
+D:\VB\ON Doing\Ruby\Ruby\obj\x86\Debug\Ruby.LaporanDetilPO.resources
+D:\VB\ON Doing\Ruby\Ruby\obj\x86\Debug\Ruby.FormDaftarPemesananBarang.resources
+D:\VB\ON Doing\Ruby\Ruby\obj\x86\Debug\Ruby.FormDetilPO.resources
+D:\VB\ON Doing\Ruby\Ruby\obj\x86\Debug\Ruby.LaporanDaftarPemesanan.resources
+D:\VB\ON Doing\Ruby\Ruby\obj\x86\Debug\Ruby.FormDataPemerimaanBarang.resources
+D:\VB\ON Doing\Ruby\Ruby\obj\x86\Debug\Ruby.FormAddPenerimaanBarang.resources
+D:\VB\ON Doing\Ruby\Ruby\obj\x86\Debug\Ruby.FormAddBarangMasuk.resources
+D:\VB\ON Doing\Ruby\Ruby\obj\x86\Debug\Ruby.FormTotalPenerimaan.resources
+D:\VB\ON Doing\Ruby\Ruby\obj\x86\Debug\Ruby.FormDaftarPenerimaanBarang.resources
+D:\VB\ON Doing\Ruby\Ruby\obj\x86\Debug\Ruby.LaporanDaftarPenerimaan.resources
+D:\VB\ON Doing\Ruby\Ruby\obj\x86\Debug\Ruby.FormDetilRO.resources
+D:\VB\ON Doing\Ruby\Ruby\obj\x86\Debug\Ruby.LaporanDetilRO.resources
+D:\VB\ON Doing\Ruby\Ruby\obj\x86\Debug\Ruby.FormAddDepartemen.resources
+D:\VB\ON Doing\Ruby\Ruby\obj\x86\Debug\Ruby.FormMutasi.resources
+D:\VB\ON Doing\Ruby\Ruby\obj\x86\Debug\Ruby.FormStokOpname.resources
+D:\VB\ON Doing\Ruby\Ruby\obj\x86\Debug\Ruby.laporanDetilHistoryStokOpname.resources
+D:\VB\ON Doing\Ruby\Ruby\obj\x86\Debug\Ruby.LaporanDetilTransferStok.resources
+D:\VB\ON Doing\Ruby\Ruby\obj\x86\Debug\Ruby.FormAddRekonsiliasiBank.resources
+D:\VB\ON Doing\TA\Ruby\Ruby\obj\x86\Debug\Ruby.exe
+D:\VB\ON Doing\TA\Ruby\Ruby\obj\x86\Debug\Ruby.xml
+D:\VB\ON Doing\TA\Ruby\Ruby\obj\x86\Debug\Ruby.pdb
+D:\VB\ON Doing\TA\Ruby\Ruby\bin\Debug\Ruby.exe
+D:\VB\ON Doing\TA\Ruby\Ruby\bin\Debug\Ruby.pdb
+D:\VB\ON Doing\TA\Ruby\Ruby\bin\Debug\Ruby.xml
+D:\VB\ON Doing\TA\Ruby\Ruby\bin\Debug\System.Windows.Interactivity.dll
+D:\VB\ON Doing\TA\Ruby\Ruby\bin\Debug\System.Windows.Interactivity.xml
+D:\VB\ON Doing\TA\Ruby\Ruby\obj\x86\Debug\Ruby.vbprojResolveAssemblyReference.cache
+D:\VB\ON Doing\TA\Ruby\Ruby\obj\x86\Debug\Ruby.Form1.resources
+D:\VB\ON Doing\TA\Ruby\Ruby\obj\x86\Debug\Ruby.FormAddAkun.resources
+D:\VB\ON Doing\TA\Ruby\Ruby\obj\x86\Debug\Ruby.FormAddBarang.resources
+D:\VB\ON Doing\TA\Ruby\Ruby\obj\x86\Debug\Ruby.FormAddBarangMasuk.resources
+D:\VB\ON Doing\TA\Ruby\Ruby\obj\x86\Debug\Ruby.FormAddBarangPesanan.resources
+D:\VB\ON Doing\TA\Ruby\Ruby\obj\x86\Debug\Ruby.FormAddDepartemen.resources
+D:\VB\ON Doing\TA\Ruby\Ruby\obj\x86\Debug\Ruby.FormAddJenisBarang.resources
+D:\VB\ON Doing\TA\Ruby\Ruby\obj\x86\Debug\Ruby.FormAddKategori.resources
+D:\VB\ON Doing\TA\Ruby\Ruby\obj\x86\Debug\Ruby.FormAddOperator.resources
+D:\VB\ON Doing\TA\Ruby\Ruby\obj\x86\Debug\Ruby.FormAddPelanggan.resources
+D:\VB\ON Doing\TA\Ruby\Ruby\obj\x86\Debug\Ruby.FormAddPembayaranPiutang.resources
+D:\VB\ON Doing\TA\Ruby\Ruby\obj\x86\Debug\Ruby.FormAddPemesananBarang.resources
+D:\VB\ON Doing\TA\Ruby\Ruby\obj\x86\Debug\Ruby.FormAddPenerimaanBarang.resources
+D:\VB\ON Doing\TA\Ruby\Ruby\obj\x86\Debug\Ruby.FormAddRekonsiliasiBank.resources
+D:\VB\ON Doing\TA\Ruby\Ruby\obj\x86\Debug\Ruby.FormAddSuplier.resources
+D:\VB\ON Doing\TA\Ruby\Ruby\obj\x86\Debug\Ruby.FormAddTemplateTransaksi.resources
+D:\VB\ON Doing\TA\Ruby\Ruby\obj\x86\Debug\Ruby.FormBukuBesar.resources
+D:\VB\ON Doing\TA\Ruby\Ruby\obj\x86\Debug\Ruby.FormDaftarBarang.resources
+D:\VB\ON Doing\TA\Ruby\Ruby\obj\x86\Debug\Ruby.FormDaftarHutangDagang.resources
+D:\VB\ON Doing\TA\Ruby\Ruby\obj\x86\Debug\Ruby.FormDaftarJenisBarang.resources
+D:\VB\ON Doing\TA\Ruby\Ruby\obj\x86\Debug\Ruby.FormDaftarPelanggan.resources
+D:\VB\ON Doing\TA\Ruby\Ruby\obj\x86\Debug\Ruby.FormDaftarPemesananBarang.resources
+D:\VB\ON Doing\TA\Ruby\Ruby\obj\x86\Debug\Ruby.FormDaftarPenerimaanBarang.resources
+D:\VB\ON Doing\TA\Ruby\Ruby\obj\x86\Debug\Ruby.FormDaftarPiutangDagang.resources
+D:\VB\ON Doing\TA\Ruby\Ruby\obj\x86\Debug\Ruby.FormDaftarSuplier.resources
+D:\VB\ON Doing\TA\Ruby\Ruby\obj\x86\Debug\Ruby.FormDaftarTemplateTransaksi.resources
+D:\VB\ON Doing\TA\Ruby\Ruby\obj\x86\Debug\Ruby.FormDaftarUmurHutang.resources
+D:\VB\ON Doing\TA\Ruby\Ruby\obj\x86\Debug\Ruby.FormDaftarUmurPiutang.resources
+D:\VB\ON Doing\TA\Ruby\Ruby\obj\x86\Debug\Ruby.FormDataAkun.resources
+D:\VB\ON Doing\TA\Ruby\Ruby\obj\x86\Debug\Ruby.FormDataBarang.resources
+D:\VB\ON Doing\TA\Ruby\Ruby\obj\x86\Debug\Ruby.FormDataKategori.resources
+D:\VB\ON Doing\TA\Ruby\Ruby\obj\x86\Debug\Ruby.FormDataPelanggan.resources
+D:\VB\ON Doing\TA\Ruby\Ruby\obj\x86\Debug\Ruby.FormDataPemerimaanBarang.resources
+D:\VB\ON Doing\TA\Ruby\Ruby\obj\x86\Debug\Ruby.FormDataPemesananBarang.resources
+D:\VB\ON Doing\TA\Ruby\Ruby\obj\x86\Debug\Ruby.FormDataPiutang.resources
+D:\VB\ON Doing\TA\Ruby\Ruby\obj\x86\Debug\Ruby.FormDataSuplier.resources
+D:\VB\ON Doing\TA\Ruby\Ruby\obj\x86\Debug\Ruby.FormDataTamplate.resources
+D:\VB\ON Doing\TA\Ruby\Ruby\obj\x86\Debug\Ruby.FormDetilPO.resources
+D:\VB\ON Doing\TA\Ruby\Ruby\obj\x86\Debug\Ruby.FormDetilRO.resources
+D:\VB\ON Doing\TA\Ruby\Ruby\obj\x86\Debug\Ruby.FormEditAkun.resources
+D:\VB\ON Doing\TA\Ruby\Ruby\obj\x86\Debug\Ruby.FormEditBarang.resources
+D:\VB\ON Doing\TA\Ruby\Ruby\obj\x86\Debug\Ruby.FormEditJenisBarang.resources
+D:\VB\ON Doing\TA\Ruby\Ruby\obj\x86\Debug\Ruby.FormEditKategori.resources
+D:\VB\ON Doing\TA\Ruby\Ruby\obj\x86\Debug\Ruby.FormEditOperator.resources
+D:\VB\ON Doing\TA\Ruby\Ruby\obj\x86\Debug\Ruby.FormEditPelanggan.resources
+D:\VB\ON Doing\TA\Ruby\Ruby\obj\x86\Debug\Ruby.FormEditSuplier.resources
+D:\VB\ON Doing\TA\Ruby\Ruby\obj\x86\Debug\Ruby.FormInputTransaksiLain.resources
+D:\VB\ON Doing\TA\Ruby\Ruby\obj\x86\Debug\Ruby.FormJurnal.resources
+D:\VB\ON Doing\TA\Ruby\Ruby\obj\x86\Debug\Ruby.FormJurnalPenyesuaian.resources
+D:\VB\ON Doing\TA\Ruby\Ruby\obj\x86\Debug\Ruby.FormKasMasuk.resources
+D:\VB\ON Doing\TA\Ruby\Ruby\obj\x86\Debug\Ruby.FormLabaRugi.resources
+D:\VB\ON Doing\TA\Ruby\Ruby\obj\x86\Debug\Ruby.FormLogin.resources
+D:\VB\ON Doing\TA\Ruby\Ruby\obj\x86\Debug\Ruby.FormMutasi.resources
+D:\VB\ON Doing\TA\Ruby\Ruby\obj\x86\Debug\Ruby.FormNeracaAwal.resources
+D:\VB\ON Doing\TA\Ruby\Ruby\obj\x86\Debug\Ruby.FormNol.resources
+D:\VB\ON Doing\TA\Ruby\Ruby\obj\x86\Debug\Ruby.FormOperator.resources
+D:\VB\ON Doing\TA\Ruby\Ruby\obj\x86\Debug\Ruby.FormPembelian.resources
+D:\VB\ON Doing\TA\Ruby\Ruby\obj\x86\Debug\Ruby.FormPenjualanBarangPerDistributor.resources
+D:\VB\ON Doing\TA\Ruby\Ruby\obj\x86\Debug\Ruby.FormProsesPembayaran.resources
+D:\VB\ON Doing\TA\Ruby\Ruby\obj\x86\Debug\Ruby.FormSettingSistem.resources
+D:\VB\ON Doing\TA\Ruby\Ruby\obj\x86\Debug\Ruby.FormStokOpname.resources
+D:\VB\ON Doing\TA\Ruby\Ruby\obj\x86\Debug\Ruby.FormTotalPenerimaan.resources
+D:\VB\ON Doing\TA\Ruby\Ruby\obj\x86\Debug\Ruby.FormTransaksi.resources
+D:\VB\ON Doing\TA\Ruby\Ruby\obj\x86\Debug\Ruby.frmMain.resources
+D:\VB\ON Doing\TA\Ruby\Ruby\obj\x86\Debug\Ruby.LaporanDaftarHutangDagang.resources
+D:\VB\ON Doing\TA\Ruby\Ruby\obj\x86\Debug\Ruby.LaporanDaftarPemesanan.resources
+D:\VB\ON Doing\TA\Ruby\Ruby\obj\x86\Debug\Ruby.LaporanDaftarPenerimaan.resources
+D:\VB\ON Doing\TA\Ruby\Ruby\obj\x86\Debug\Ruby.LaporanDaftarPiutangDagang.resources
+D:\VB\ON Doing\TA\Ruby\Ruby\obj\x86\Debug\Ruby.laporanDetilHistoryStokOpname.resources
+D:\VB\ON Doing\TA\Ruby\Ruby\obj\x86\Debug\Ruby.LaporanDetilPO.resources
+D:\VB\ON Doing\TA\Ruby\Ruby\obj\x86\Debug\Ruby.LaporanDetilRO.resources
+D:\VB\ON Doing\TA\Ruby\Ruby\obj\x86\Debug\Ruby.LaporanDetilTransferStok.resources
+D:\VB\ON Doing\TA\Ruby\Ruby\obj\x86\Debug\Ruby.LaporanLabaRugi.resources
+D:\VB\ON Doing\TA\Ruby\Ruby\obj\x86\Debug\Ruby.LaporanNeracaSaldo.resources
+D:\VB\ON Doing\TA\Ruby\Ruby\obj\x86\Debug\Ruby.Resources.resources
+D:\VB\ON Doing\TA\Ruby\Ruby\obj\x86\Debug\Ruby.vbproj.GenerateResource.Cache
+D:\VB\ON Doing\TA\Ruby\Ruby\obj\x86\Debug\Ruby.exe.licenses
+D:\VB\ON Doing\TA\Ruby\Ruby\obj\x86\Debug\Ruby.FormDataDepartemen.resources
+D:\VB\ON Doing\TA\Ruby\Ruby\obj\x86\Debug\Ruby.FormDataSubklasifikasi.resources
+D:\VB\ON Doing\TA\Ruby\Ruby\obj\x86\Debug\Ruby.FormAddSubKlas.resources
+D:\VB\ON Doing\TA\Ruby\Ruby\obj\x86\Debug\Ruby.FormNeracaLajur.resources
+D:\VB\ON Doing\TA\Ruby\Ruby\obj\x86\Debug\Ruby.LapNeracaLajur.resources
+D:\VB\ON Doing\TA\Ruby\Ruby\obj\x86\Debug\Ruby.FormNeracaLajurPeriode.resources
+D:\VB\ON Doing\TA\Ruby\Ruby\obj\x86\Debug\Ruby.FormDetilJurnal.resources
+D:\VB\ON Doing\TA\Ruby\Ruby\obj\x86\Debug\Ruby.FormDetilJurnaleriode.resources
+D:\VB\ON Doing\TA\Ruby\Ruby\obj\x86\Debug\Ruby.FormJurnalKoreksi.resources
+D:\VB\ON Doing\TA\Ruby\Ruby\obj\x86\Debug\Ruby.FormJurnalUmum.resources
+D:\VB\ON Doing\TA\Ruby\Ruby\obj\x86\Debug\Ruby.LaporanJurnalUmum.resources
+D:\VB\ON Doing\TA\Ruby\Ruby\obj\x86\Debug\Ruby.LaporanBukuBesar.resources
+D:\VB\ON Doing\TA\Ruby\Ruby\obj\x86\Debug\Ruby.FormIncomeAudit.resources
+D:\TA\Ruby\Ruby\obj\x86\Debug\Ruby.exe
+D:\TA\Ruby\Ruby\obj\x86\Debug\Ruby.xml
+D:\TA\Ruby\Ruby\obj\x86\Debug\Ruby.pdb
+D:\TA\Ruby\Ruby\bin\Debug\Ruby.exe
+D:\TA\Ruby\Ruby\bin\Debug\Ruby.pdb
+D:\TA\Ruby\Ruby\bin\Debug\Ruby.xml
+D:\TA\Ruby\Ruby\bin\Debug\System.Windows.Interactivity.dll
+D:\TA\Ruby\Ruby\bin\Debug\System.Windows.Interactivity.xml
+D:\TA\Ruby\Ruby\obj\x86\Debug\Ruby.vbprojResolveAssemblyReference.cache
+D:\TA\Ruby\Ruby\obj\x86\Debug\Ruby.Form1.resources
+D:\TA\Ruby\Ruby\obj\x86\Debug\Ruby.FormAddAkun.resources
+D:\TA\Ruby\Ruby\obj\x86\Debug\Ruby.FormAddBank.resources
+D:\TA\Ruby\Ruby\obj\x86\Debug\Ruby.FormAddBarang.resources
+D:\TA\Ruby\Ruby\obj\x86\Debug\Ruby.FormAddBarangMasuk.resources
+D:\TA\Ruby\Ruby\obj\x86\Debug\Ruby.FormAddBarangPesanan.resources
+D:\TA\Ruby\Ruby\obj\x86\Debug\Ruby.FormAddDepartemen.resources
+D:\TA\Ruby\Ruby\obj\x86\Debug\Ruby.FormAddJenisBarang.resources
+D:\TA\Ruby\Ruby\obj\x86\Debug\Ruby.FormAddKategori.resources
+D:\TA\Ruby\Ruby\obj\x86\Debug\Ruby.FormAddOperator.resources
+D:\TA\Ruby\Ruby\obj\x86\Debug\Ruby.FormAddPelanggan.resources
+D:\TA\Ruby\Ruby\obj\x86\Debug\Ruby.FormAddPembayaranPiutang.resources
+D:\TA\Ruby\Ruby\obj\x86\Debug\Ruby.FormAddPemesananBarang.resources
+D:\TA\Ruby\Ruby\obj\x86\Debug\Ruby.FormAddPenerimaanBarang.resources
+D:\TA\Ruby\Ruby\obj\x86\Debug\Ruby.FormAddRekonsiliasiBank.resources
+D:\TA\Ruby\Ruby\obj\x86\Debug\Ruby.FormAddSubKlas.resources
+D:\TA\Ruby\Ruby\obj\x86\Debug\Ruby.FormAddSuplier.resources
+D:\TA\Ruby\Ruby\obj\x86\Debug\Ruby.FormAddTemplateTransaksi.resources
+D:\TA\Ruby\Ruby\obj\x86\Debug\Ruby.FormBukuBesar.resources
+D:\TA\Ruby\Ruby\obj\x86\Debug\Ruby.FormDaftarBarang.resources
+D:\TA\Ruby\Ruby\obj\x86\Debug\Ruby.FormDaftarHutangDagang.resources
+D:\TA\Ruby\Ruby\obj\x86\Debug\Ruby.FormDaftarJenisBarang.resources
+D:\TA\Ruby\Ruby\obj\x86\Debug\Ruby.FormDaftarPelanggan.resources
+D:\TA\Ruby\Ruby\obj\x86\Debug\Ruby.FormDaftarPemesananBarang.resources
+D:\TA\Ruby\Ruby\obj\x86\Debug\Ruby.FormDaftarPenerimaanBarang.resources
+D:\TA\Ruby\Ruby\obj\x86\Debug\Ruby.FormDaftarPiutangDagang.resources
+D:\TA\Ruby\Ruby\obj\x86\Debug\Ruby.FormDaftarSuplier.resources
+D:\TA\Ruby\Ruby\obj\x86\Debug\Ruby.FormDaftarTemplateTransaksi.resources
+D:\TA\Ruby\Ruby\obj\x86\Debug\Ruby.FormDaftarUmurHutang.resources
+D:\TA\Ruby\Ruby\obj\x86\Debug\Ruby.FormDaftarUmurPiutang.resources
+D:\TA\Ruby\Ruby\obj\x86\Debug\Ruby.FormDataAkun.resources
+D:\TA\Ruby\Ruby\obj\x86\Debug\Ruby.FormDataBankdanRekening.resources
+D:\TA\Ruby\Ruby\obj\x86\Debug\Ruby.FormDataBarang.resources
+D:\TA\Ruby\Ruby\obj\x86\Debug\Ruby.FormDataDepartemen.resources
+D:\TA\Ruby\Ruby\obj\x86\Debug\Ruby.FormDataKategori.resources
+D:\TA\Ruby\Ruby\obj\x86\Debug\Ruby.FormDataPelanggan.resources
+D:\TA\Ruby\Ruby\obj\x86\Debug\Ruby.FormDataPemerimaanBarang.resources
+D:\TA\Ruby\Ruby\obj\x86\Debug\Ruby.FormDataPemesananBarang.resources
+D:\TA\Ruby\Ruby\obj\x86\Debug\Ruby.FormDataPiutang.resources
+D:\TA\Ruby\Ruby\obj\x86\Debug\Ruby.FormDataSubklasifikasi.resources
+D:\TA\Ruby\Ruby\obj\x86\Debug\Ruby.FormDataSuplier.resources
+D:\TA\Ruby\Ruby\obj\x86\Debug\Ruby.FormDataTamplate.resources
+D:\TA\Ruby\Ruby\obj\x86\Debug\Ruby.FormDetailPembayaranHutang.resources
+D:\TA\Ruby\Ruby\obj\x86\Debug\Ruby.FormDetilJurnal.resources
+D:\TA\Ruby\Ruby\obj\x86\Debug\Ruby.FormDetilJurnaleriode.resources
+D:\TA\Ruby\Ruby\obj\x86\Debug\Ruby.FormDetilPO.resources
+D:\TA\Ruby\Ruby\obj\x86\Debug\Ruby.FormDetilRO.resources
+D:\TA\Ruby\Ruby\obj\x86\Debug\Ruby.FormEditAkun.resources
+D:\TA\Ruby\Ruby\obj\x86\Debug\Ruby.FormEditBarang.resources
+D:\TA\Ruby\Ruby\obj\x86\Debug\Ruby.FormEditJenisBarang.resources
+D:\TA\Ruby\Ruby\obj\x86\Debug\Ruby.FormEditKategori.resources
+D:\TA\Ruby\Ruby\obj\x86\Debug\Ruby.FormEditOperator.resources
+D:\TA\Ruby\Ruby\obj\x86\Debug\Ruby.FormEditPelanggan.resources
+D:\TA\Ruby\Ruby\obj\x86\Debug\Ruby.FormEditSuplier.resources
+D:\TA\Ruby\Ruby\obj\x86\Debug\Ruby.FormIncomeAudit.resources
+D:\TA\Ruby\Ruby\obj\x86\Debug\Ruby.FormInputTransaksiLain.resources
+D:\TA\Ruby\Ruby\obj\x86\Debug\Ruby.FormJurnal.resources
+D:\TA\Ruby\Ruby\obj\x86\Debug\Ruby.FormJurnalKoreksi.resources
+D:\TA\Ruby\Ruby\obj\x86\Debug\Ruby.FormJurnalPenyesuaian.resources
+D:\TA\Ruby\Ruby\obj\x86\Debug\Ruby.FormJurnalUmum.resources
+D:\TA\Ruby\Ruby\obj\x86\Debug\Ruby.FormKasMasuk.resources
+D:\TA\Ruby\Ruby\obj\x86\Debug\Ruby.FormLabaRugi.resources
+D:\TA\Ruby\Ruby\obj\x86\Debug\Ruby.FormLogin.resources
+D:\TA\Ruby\Ruby\obj\x86\Debug\Ruby.FormMutasi.resources
+D:\TA\Ruby\Ruby\obj\x86\Debug\Ruby.FormNeracaAwal.resources
+D:\TA\Ruby\Ruby\obj\x86\Debug\Ruby.FormNeracaLajur.resources
+D:\TA\Ruby\Ruby\obj\x86\Debug\Ruby.FormNeracaLajurPeriode.resources
+D:\TA\Ruby\Ruby\obj\x86\Debug\Ruby.FormNol.resources
+D:\TA\Ruby\Ruby\obj\x86\Debug\Ruby.FormOperator.resources
+D:\TA\Ruby\Ruby\obj\x86\Debug\Ruby.FormPembelian.resources
+D:\TA\Ruby\Ruby\obj\x86\Debug\Ruby.FormPenjualanBarangPerDistributor.resources
+D:\TA\Ruby\Ruby\obj\x86\Debug\Ruby.FormProsesPembayaran.resources
+D:\TA\Ruby\Ruby\obj\x86\Debug\Ruby.FormSettingSistem.resources
+D:\TA\Ruby\Ruby\obj\x86\Debug\Ruby.FormStokOpname.resources
+D:\TA\Ruby\Ruby\obj\x86\Debug\Ruby.FormTotalPenerimaan.resources
+D:\TA\Ruby\Ruby\obj\x86\Debug\Ruby.FormTransaksi.resources
+D:\TA\Ruby\Ruby\obj\x86\Debug\Ruby.frmMain.resources
+D:\TA\Ruby\Ruby\obj\x86\Debug\Ruby.LapNeracaLajur.resources
+D:\TA\Ruby\Ruby\obj\x86\Debug\Ruby.LaporanBukuBesar.resources
+D:\TA\Ruby\Ruby\obj\x86\Debug\Ruby.LaporanDaftarHutangDagang.resources
+D:\TA\Ruby\Ruby\obj\x86\Debug\Ruby.LaporanDaftarPemesanan.resources
+D:\TA\Ruby\Ruby\obj\x86\Debug\Ruby.LaporanDaftarPenerimaan.resources
+D:\TA\Ruby\Ruby\obj\x86\Debug\Ruby.LaporanDaftarPiutangDagang.resources
+D:\TA\Ruby\Ruby\obj\x86\Debug\Ruby.laporanDetilHistoryStokOpname.resources
+D:\TA\Ruby\Ruby\obj\x86\Debug\Ruby.LaporanDetilPO.resources
+D:\TA\Ruby\Ruby\obj\x86\Debug\Ruby.LaporanDetilRO.resources
+D:\TA\Ruby\Ruby\obj\x86\Debug\Ruby.LaporanDetilTransferStok.resources
+D:\TA\Ruby\Ruby\obj\x86\Debug\Ruby.LaporanJurnalUmum.resources
+D:\TA\Ruby\Ruby\obj\x86\Debug\Ruby.LaporanLabaRugi.resources
+D:\TA\Ruby\Ruby\obj\x86\Debug\Ruby.LaporanNeracaSaldo.resources
+D:\TA\Ruby\Ruby\obj\x86\Debug\Ruby.Resources.resources
+D:\TA\Ruby\Ruby\obj\x86\Debug\Ruby.vbproj.GenerateResource.Cache
+D:\TA\Ruby\Ruby\obj\x86\Debug\Ruby.exe.licenses
+D:\TA\Ruby\Ruby\obj\x86\Debug\Ruby.FormDataPerusahaan.resources
+D:\TA\Ruby\Ruby\obj\x86\Debug\Ruby.FormPerubahanModal.resources
+D:\TA\Ruby\Ruby\obj\x86\Debug\Ruby.LaporanPerubahanModal.resources
+D:\Kuliah\TA TOHRI\Revisi SIdang\12101065-Muhammad_Tohri_Isnadi\Aplikasi\Ruby\Ruby\obj\x86\Debug\Ruby.exe
+D:\Kuliah\TA TOHRI\Revisi SIdang\12101065-Muhammad_Tohri_Isnadi\Aplikasi\Ruby\Ruby\obj\x86\Debug\Ruby.xml
+D:\Kuliah\TA TOHRI\Revisi SIdang\12101065-Muhammad_Tohri_Isnadi\Aplikasi\Ruby\Ruby\obj\x86\Debug\Ruby.pdb
+D:\Kuliah\TA TOHRI\Revisi SIdang\12101065-Muhammad_Tohri_Isnadi\Aplikasi\Ruby\Ruby\bin\Debug\Ruby.exe
+D:\Kuliah\TA TOHRI\Revisi SIdang\12101065-Muhammad_Tohri_Isnadi\Aplikasi\Ruby\Ruby\bin\Debug\Ruby.pdb
+D:\Kuliah\TA TOHRI\Revisi SIdang\12101065-Muhammad_Tohri_Isnadi\Aplikasi\Ruby\Ruby\bin\Debug\Ruby.xml
+D:\Kuliah\TA TOHRI\Revisi SIdang\12101065-Muhammad_Tohri_Isnadi\Aplikasi\Ruby\Ruby\bin\Debug\System.Windows.Interactivity.dll
+D:\Kuliah\TA TOHRI\Revisi SIdang\12101065-Muhammad_Tohri_Isnadi\Aplikasi\Ruby\Ruby\bin\Debug\System.Windows.Interactivity.xml
+D:\Kuliah\TA TOHRI\Revisi SIdang\12101065-Muhammad_Tohri_Isnadi\Aplikasi\Ruby\Ruby\obj\x86\Debug\Ruby.vbprojResolveAssemblyReference.cache
+D:\Kuliah\TA TOHRI\Revisi SIdang\12101065-Muhammad_Tohri_Isnadi\Aplikasi\Ruby\Ruby\obj\x86\Debug\Ruby.Form1.resources
+D:\Kuliah\TA TOHRI\Revisi SIdang\12101065-Muhammad_Tohri_Isnadi\Aplikasi\Ruby\Ruby\obj\x86\Debug\Ruby.FormAddAkun.resources
+D:\Kuliah\TA TOHRI\Revisi SIdang\12101065-Muhammad_Tohri_Isnadi\Aplikasi\Ruby\Ruby\obj\x86\Debug\Ruby.FormAddBank.resources
+D:\Kuliah\TA TOHRI\Revisi SIdang\12101065-Muhammad_Tohri_Isnadi\Aplikasi\Ruby\Ruby\obj\x86\Debug\Ruby.FormAddBarang.resources
+D:\Kuliah\TA TOHRI\Revisi SIdang\12101065-Muhammad_Tohri_Isnadi\Aplikasi\Ruby\Ruby\obj\x86\Debug\Ruby.FormAddBarangMasuk.resources
+D:\Kuliah\TA TOHRI\Revisi SIdang\12101065-Muhammad_Tohri_Isnadi\Aplikasi\Ruby\Ruby\obj\x86\Debug\Ruby.FormAddBarangPesanan.resources
+D:\Kuliah\TA TOHRI\Revisi SIdang\12101065-Muhammad_Tohri_Isnadi\Aplikasi\Ruby\Ruby\obj\x86\Debug\Ruby.FormAddDepartemen.resources
+D:\Kuliah\TA TOHRI\Revisi SIdang\12101065-Muhammad_Tohri_Isnadi\Aplikasi\Ruby\Ruby\obj\x86\Debug\Ruby.FormAddJenisBarang.resources
+D:\Kuliah\TA TOHRI\Revisi SIdang\12101065-Muhammad_Tohri_Isnadi\Aplikasi\Ruby\Ruby\obj\x86\Debug\Ruby.FormAddKategori.resources
+D:\Kuliah\TA TOHRI\Revisi SIdang\12101065-Muhammad_Tohri_Isnadi\Aplikasi\Ruby\Ruby\obj\x86\Debug\Ruby.FormAddOperator.resources
+D:\Kuliah\TA TOHRI\Revisi SIdang\12101065-Muhammad_Tohri_Isnadi\Aplikasi\Ruby\Ruby\obj\x86\Debug\Ruby.FormAddPelanggan.resources
+D:\Kuliah\TA TOHRI\Revisi SIdang\12101065-Muhammad_Tohri_Isnadi\Aplikasi\Ruby\Ruby\obj\x86\Debug\Ruby.FormAddPembayaranPiutang.resources
+D:\Kuliah\TA TOHRI\Revisi SIdang\12101065-Muhammad_Tohri_Isnadi\Aplikasi\Ruby\Ruby\obj\x86\Debug\Ruby.FormAddPemesananBarang.resources
+D:\Kuliah\TA TOHRI\Revisi SIdang\12101065-Muhammad_Tohri_Isnadi\Aplikasi\Ruby\Ruby\obj\x86\Debug\Ruby.FormAddPenerimaanBarang.resources
+D:\Kuliah\TA TOHRI\Revisi SIdang\12101065-Muhammad_Tohri_Isnadi\Aplikasi\Ruby\Ruby\obj\x86\Debug\Ruby.FormAddRekonsiliasiBank.resources
+D:\Kuliah\TA TOHRI\Revisi SIdang\12101065-Muhammad_Tohri_Isnadi\Aplikasi\Ruby\Ruby\obj\x86\Debug\Ruby.FormAddSubKlas.resources
+D:\Kuliah\TA TOHRI\Revisi SIdang\12101065-Muhammad_Tohri_Isnadi\Aplikasi\Ruby\Ruby\obj\x86\Debug\Ruby.FormAddSuplier.resources
+D:\Kuliah\TA TOHRI\Revisi SIdang\12101065-Muhammad_Tohri_Isnadi\Aplikasi\Ruby\Ruby\obj\x86\Debug\Ruby.FormAddTemplateTransaksi.resources
+D:\Kuliah\TA TOHRI\Revisi SIdang\12101065-Muhammad_Tohri_Isnadi\Aplikasi\Ruby\Ruby\obj\x86\Debug\Ruby.FormBukuBesar.resources
+D:\Kuliah\TA TOHRI\Revisi SIdang\12101065-Muhammad_Tohri_Isnadi\Aplikasi\Ruby\Ruby\obj\x86\Debug\Ruby.FormDaftarBarang.resources
+D:\Kuliah\TA TOHRI\Revisi SIdang\12101065-Muhammad_Tohri_Isnadi\Aplikasi\Ruby\Ruby\obj\x86\Debug\Ruby.FormDaftarHutangDagang.resources
+D:\Kuliah\TA TOHRI\Revisi SIdang\12101065-Muhammad_Tohri_Isnadi\Aplikasi\Ruby\Ruby\obj\x86\Debug\Ruby.FormDaftarJenisBarang.resources
+D:\Kuliah\TA TOHRI\Revisi SIdang\12101065-Muhammad_Tohri_Isnadi\Aplikasi\Ruby\Ruby\obj\x86\Debug\Ruby.FormDaftarPelanggan.resources
+D:\Kuliah\TA TOHRI\Revisi SIdang\12101065-Muhammad_Tohri_Isnadi\Aplikasi\Ruby\Ruby\obj\x86\Debug\Ruby.FormDaftarPemesananBarang.resources
+D:\Kuliah\TA TOHRI\Revisi SIdang\12101065-Muhammad_Tohri_Isnadi\Aplikasi\Ruby\Ruby\obj\x86\Debug\Ruby.FormDaftarPenerimaanBarang.resources
+D:\Kuliah\TA TOHRI\Revisi SIdang\12101065-Muhammad_Tohri_Isnadi\Aplikasi\Ruby\Ruby\obj\x86\Debug\Ruby.FormDaftarPiutangDagang.resources
+D:\Kuliah\TA TOHRI\Revisi SIdang\12101065-Muhammad_Tohri_Isnadi\Aplikasi\Ruby\Ruby\obj\x86\Debug\Ruby.FormDaftarSuplier.resources
+D:\Kuliah\TA TOHRI\Revisi SIdang\12101065-Muhammad_Tohri_Isnadi\Aplikasi\Ruby\Ruby\obj\x86\Debug\Ruby.FormDaftarTemplateTransaksi.resources
+D:\Kuliah\TA TOHRI\Revisi SIdang\12101065-Muhammad_Tohri_Isnadi\Aplikasi\Ruby\Ruby\obj\x86\Debug\Ruby.FormDaftarUmurHutang.resources
+D:\Kuliah\TA TOHRI\Revisi SIdang\12101065-Muhammad_Tohri_Isnadi\Aplikasi\Ruby\Ruby\obj\x86\Debug\Ruby.FormDaftarUmurPiutang.resources
+D:\Kuliah\TA TOHRI\Revisi SIdang\12101065-Muhammad_Tohri_Isnadi\Aplikasi\Ruby\Ruby\obj\x86\Debug\Ruby.FormDataAkun.resources
+D:\Kuliah\TA TOHRI\Revisi SIdang\12101065-Muhammad_Tohri_Isnadi\Aplikasi\Ruby\Ruby\obj\x86\Debug\Ruby.FormDataBankdanRekening.resources
+D:\Kuliah\TA TOHRI\Revisi SIdang\12101065-Muhammad_Tohri_Isnadi\Aplikasi\Ruby\Ruby\obj\x86\Debug\Ruby.FormDataBarang.resources
+D:\Kuliah\TA TOHRI\Revisi SIdang\12101065-Muhammad_Tohri_Isnadi\Aplikasi\Ruby\Ruby\obj\x86\Debug\Ruby.FormDataDepartemen.resources
+D:\Kuliah\TA TOHRI\Revisi SIdang\12101065-Muhammad_Tohri_Isnadi\Aplikasi\Ruby\Ruby\obj\x86\Debug\Ruby.FormDataKategori.resources
+D:\Kuliah\TA TOHRI\Revisi SIdang\12101065-Muhammad_Tohri_Isnadi\Aplikasi\Ruby\Ruby\obj\x86\Debug\Ruby.FormDataPelanggan.resources
+D:\Kuliah\TA TOHRI\Revisi SIdang\12101065-Muhammad_Tohri_Isnadi\Aplikasi\Ruby\Ruby\obj\x86\Debug\Ruby.FormDataPemerimaanBarang.resources
+D:\Kuliah\TA TOHRI\Revisi SIdang\12101065-Muhammad_Tohri_Isnadi\Aplikasi\Ruby\Ruby\obj\x86\Debug\Ruby.FormDataPemesananBarang.resources
+D:\Kuliah\TA TOHRI\Revisi SIdang\12101065-Muhammad_Tohri_Isnadi\Aplikasi\Ruby\Ruby\obj\x86\Debug\Ruby.FormDataPerusahaan.resources
+D:\Kuliah\TA TOHRI\Revisi SIdang\12101065-Muhammad_Tohri_Isnadi\Aplikasi\Ruby\Ruby\obj\x86\Debug\Ruby.FormDataPiutang.resources
+D:\Kuliah\TA TOHRI\Revisi SIdang\12101065-Muhammad_Tohri_Isnadi\Aplikasi\Ruby\Ruby\obj\x86\Debug\Ruby.FormDataSubklasifikasi.resources
+D:\Kuliah\TA TOHRI\Revisi SIdang\12101065-Muhammad_Tohri_Isnadi\Aplikasi\Ruby\Ruby\obj\x86\Debug\Ruby.FormDataSuplier.resources
+D:\Kuliah\TA TOHRI\Revisi SIdang\12101065-Muhammad_Tohri_Isnadi\Aplikasi\Ruby\Ruby\obj\x86\Debug\Ruby.FormDataTamplate.resources
+D:\Kuliah\TA TOHRI\Revisi SIdang\12101065-Muhammad_Tohri_Isnadi\Aplikasi\Ruby\Ruby\obj\x86\Debug\Ruby.FormDetailPembayaranHutang.resources
+D:\Kuliah\TA TOHRI\Revisi SIdang\12101065-Muhammad_Tohri_Isnadi\Aplikasi\Ruby\Ruby\obj\x86\Debug\Ruby.FormDetilJurnal.resources
+D:\Kuliah\TA TOHRI\Revisi SIdang\12101065-Muhammad_Tohri_Isnadi\Aplikasi\Ruby\Ruby\obj\x86\Debug\Ruby.FormDetilJurnaleriode.resources
+D:\Kuliah\TA TOHRI\Revisi SIdang\12101065-Muhammad_Tohri_Isnadi\Aplikasi\Ruby\Ruby\obj\x86\Debug\Ruby.FormDetilPO.resources
+D:\Kuliah\TA TOHRI\Revisi SIdang\12101065-Muhammad_Tohri_Isnadi\Aplikasi\Ruby\Ruby\obj\x86\Debug\Ruby.FormDetilRO.resources
+D:\Kuliah\TA TOHRI\Revisi SIdang\12101065-Muhammad_Tohri_Isnadi\Aplikasi\Ruby\Ruby\obj\x86\Debug\Ruby.FormEditAkun.resources
+D:\Kuliah\TA TOHRI\Revisi SIdang\12101065-Muhammad_Tohri_Isnadi\Aplikasi\Ruby\Ruby\obj\x86\Debug\Ruby.FormEditBarang.resources
+D:\Kuliah\TA TOHRI\Revisi SIdang\12101065-Muhammad_Tohri_Isnadi\Aplikasi\Ruby\Ruby\obj\x86\Debug\Ruby.FormEditJenisBarang.resources
+D:\Kuliah\TA TOHRI\Revisi SIdang\12101065-Muhammad_Tohri_Isnadi\Aplikasi\Ruby\Ruby\obj\x86\Debug\Ruby.FormEditKategori.resources
+D:\Kuliah\TA TOHRI\Revisi SIdang\12101065-Muhammad_Tohri_Isnadi\Aplikasi\Ruby\Ruby\obj\x86\Debug\Ruby.FormEditOperator.resources
+D:\Kuliah\TA TOHRI\Revisi SIdang\12101065-Muhammad_Tohri_Isnadi\Aplikasi\Ruby\Ruby\obj\x86\Debug\Ruby.FormEditPelanggan.resources
+D:\Kuliah\TA TOHRI\Revisi SIdang\12101065-Muhammad_Tohri_Isnadi\Aplikasi\Ruby\Ruby\obj\x86\Debug\Ruby.FormEditSuplier.resources
+D:\Kuliah\TA TOHRI\Revisi SIdang\12101065-Muhammad_Tohri_Isnadi\Aplikasi\Ruby\Ruby\obj\x86\Debug\Ruby.FormIncomeAudit.resources
+D:\Kuliah\TA TOHRI\Revisi SIdang\12101065-Muhammad_Tohri_Isnadi\Aplikasi\Ruby\Ruby\obj\x86\Debug\Ruby.FormInputTransaksiLain.resources
+D:\Kuliah\TA TOHRI\Revisi SIdang\12101065-Muhammad_Tohri_Isnadi\Aplikasi\Ruby\Ruby\obj\x86\Debug\Ruby.FormJurnal.resources
+D:\Kuliah\TA TOHRI\Revisi SIdang\12101065-Muhammad_Tohri_Isnadi\Aplikasi\Ruby\Ruby\obj\x86\Debug\Ruby.FormJurnalKoreksi.resources
+D:\Kuliah\TA TOHRI\Revisi SIdang\12101065-Muhammad_Tohri_Isnadi\Aplikasi\Ruby\Ruby\obj\x86\Debug\Ruby.FormJurnalPenyesuaian.resources
+D:\Kuliah\TA TOHRI\Revisi SIdang\12101065-Muhammad_Tohri_Isnadi\Aplikasi\Ruby\Ruby\obj\x86\Debug\Ruby.FormJurnalUmum.resources
+D:\Kuliah\TA TOHRI\Revisi SIdang\12101065-Muhammad_Tohri_Isnadi\Aplikasi\Ruby\Ruby\obj\x86\Debug\Ruby.FormKasMasuk.resources
+D:\Kuliah\TA TOHRI\Revisi SIdang\12101065-Muhammad_Tohri_Isnadi\Aplikasi\Ruby\Ruby\obj\x86\Debug\Ruby.FormLabaRugi.resources
+D:\Kuliah\TA TOHRI\Revisi SIdang\12101065-Muhammad_Tohri_Isnadi\Aplikasi\Ruby\Ruby\obj\x86\Debug\Ruby.FormLogin.resources
+D:\Kuliah\TA TOHRI\Revisi SIdang\12101065-Muhammad_Tohri_Isnadi\Aplikasi\Ruby\Ruby\obj\x86\Debug\Ruby.FormMutasi.resources
+D:\Kuliah\TA TOHRI\Revisi SIdang\12101065-Muhammad_Tohri_Isnadi\Aplikasi\Ruby\Ruby\obj\x86\Debug\Ruby.FormNeracaAwal.resources
+D:\Kuliah\TA TOHRI\Revisi SIdang\12101065-Muhammad_Tohri_Isnadi\Aplikasi\Ruby\Ruby\obj\x86\Debug\Ruby.FormNeracaLajur.resources
+D:\Kuliah\TA TOHRI\Revisi SIdang\12101065-Muhammad_Tohri_Isnadi\Aplikasi\Ruby\Ruby\obj\x86\Debug\Ruby.FormNeracaLajurPeriode.resources
+D:\Kuliah\TA TOHRI\Revisi SIdang\12101065-Muhammad_Tohri_Isnadi\Aplikasi\Ruby\Ruby\obj\x86\Debug\Ruby.FormNol.resources
+D:\Kuliah\TA TOHRI\Revisi SIdang\12101065-Muhammad_Tohri_Isnadi\Aplikasi\Ruby\Ruby\obj\x86\Debug\Ruby.FormOperator.resources
+D:\Kuliah\TA TOHRI\Revisi SIdang\12101065-Muhammad_Tohri_Isnadi\Aplikasi\Ruby\Ruby\obj\x86\Debug\Ruby.FormPembelian.resources
+D:\Kuliah\TA TOHRI\Revisi SIdang\12101065-Muhammad_Tohri_Isnadi\Aplikasi\Ruby\Ruby\obj\x86\Debug\Ruby.FormPenjualanBarangPerDistributor.resources
+D:\Kuliah\TA TOHRI\Revisi SIdang\12101065-Muhammad_Tohri_Isnadi\Aplikasi\Ruby\Ruby\obj\x86\Debug\Ruby.FormPerubahanModal.resources
+D:\Kuliah\TA TOHRI\Revisi SIdang\12101065-Muhammad_Tohri_Isnadi\Aplikasi\Ruby\Ruby\obj\x86\Debug\Ruby.FormProsesPembayaran.resources
+D:\Kuliah\TA TOHRI\Revisi SIdang\12101065-Muhammad_Tohri_Isnadi\Aplikasi\Ruby\Ruby\obj\x86\Debug\Ruby.FormSettingSistem.resources
+D:\Kuliah\TA TOHRI\Revisi SIdang\12101065-Muhammad_Tohri_Isnadi\Aplikasi\Ruby\Ruby\obj\x86\Debug\Ruby.FormStokOpname.resources
+D:\Kuliah\TA TOHRI\Revisi SIdang\12101065-Muhammad_Tohri_Isnadi\Aplikasi\Ruby\Ruby\obj\x86\Debug\Ruby.FormTotalPenerimaan.resources
+D:\Kuliah\TA TOHRI\Revisi SIdang\12101065-Muhammad_Tohri_Isnadi\Aplikasi\Ruby\Ruby\obj\x86\Debug\Ruby.FormTransaksi.resources
+D:\Kuliah\TA TOHRI\Revisi SIdang\12101065-Muhammad_Tohri_Isnadi\Aplikasi\Ruby\Ruby\obj\x86\Debug\Ruby.frmMain.resources
+D:\Kuliah\TA TOHRI\Revisi SIdang\12101065-Muhammad_Tohri_Isnadi\Aplikasi\Ruby\Ruby\obj\x86\Debug\Ruby.LapNeracaLajur.resources
+D:\Kuliah\TA TOHRI\Revisi SIdang\12101065-Muhammad_Tohri_Isnadi\Aplikasi\Ruby\Ruby\obj\x86\Debug\Ruby.LaporanBukuBesar.resources
+D:\Kuliah\TA TOHRI\Revisi SIdang\12101065-Muhammad_Tohri_Isnadi\Aplikasi\Ruby\Ruby\obj\x86\Debug\Ruby.LaporanDaftarHutangDagang.resources
+D:\Kuliah\TA TOHRI\Revisi SIdang\12101065-Muhammad_Tohri_Isnadi\Aplikasi\Ruby\Ruby\obj\x86\Debug\Ruby.LaporanDaftarPemesanan.resources
+D:\Kuliah\TA TOHRI\Revisi SIdang\12101065-Muhammad_Tohri_Isnadi\Aplikasi\Ruby\Ruby\obj\x86\Debug\Ruby.LaporanDaftarPenerimaan.resources
+D:\Kuliah\TA TOHRI\Revisi SIdang\12101065-Muhammad_Tohri_Isnadi\Aplikasi\Ruby\Ruby\obj\x86\Debug\Ruby.LaporanDaftarPiutangDagang.resources
+D:\Kuliah\TA TOHRI\Revisi SIdang\12101065-Muhammad_Tohri_Isnadi\Aplikasi\Ruby\Ruby\obj\x86\Debug\Ruby.laporanDetilHistoryStokOpname.resources
+D:\Kuliah\TA TOHRI\Revisi SIdang\12101065-Muhammad_Tohri_Isnadi\Aplikasi\Ruby\Ruby\obj\x86\Debug\Ruby.LaporanDetilPO.resources
+D:\Kuliah\TA TOHRI\Revisi SIdang\12101065-Muhammad_Tohri_Isnadi\Aplikasi\Ruby\Ruby\obj\x86\Debug\Ruby.LaporanDetilRO.resources
+D:\Kuliah\TA TOHRI\Revisi SIdang\12101065-Muhammad_Tohri_Isnadi\Aplikasi\Ruby\Ruby\obj\x86\Debug\Ruby.LaporanDetilTransferStok.resources
+D:\Kuliah\TA TOHRI\Revisi SIdang\12101065-Muhammad_Tohri_Isnadi\Aplikasi\Ruby\Ruby\obj\x86\Debug\Ruby.LaporanJurnalUmum.resources
+D:\Kuliah\TA TOHRI\Revisi SIdang\12101065-Muhammad_Tohri_Isnadi\Aplikasi\Ruby\Ruby\obj\x86\Debug\Ruby.LaporanLabaRugi.resources
+D:\Kuliah\TA TOHRI\Revisi SIdang\12101065-Muhammad_Tohri_Isnadi\Aplikasi\Ruby\Ruby\obj\x86\Debug\Ruby.LaporanNeracaSaldo.resources
+D:\Kuliah\TA TOHRI\Revisi SIdang\12101065-Muhammad_Tohri_Isnadi\Aplikasi\Ruby\Ruby\obj\x86\Debug\Ruby.LaporanPerubahanModal.resources
+D:\Kuliah\TA TOHRI\Revisi SIdang\12101065-Muhammad_Tohri_Isnadi\Aplikasi\Ruby\Ruby\obj\x86\Debug\Ruby.Resources.resources
+D:\Kuliah\TA TOHRI\Revisi SIdang\12101065-Muhammad_Tohri_Isnadi\Aplikasi\Ruby\Ruby\obj\x86\Debug\Ruby.vbproj.GenerateResource.Cache
+D:\Kuliah\TA TOHRI\Revisi SIdang\12101065-Muhammad_Tohri_Isnadi\Aplikasi\Ruby\Ruby\obj\x86\Debug\Ruby.exe.licenses
+D:\Kuliah\TA TOHRI\Revisi SIdang\12101065-Muhammad_Tohri_Isnadi\Aplikasi\Ruby\Ruby\obj\x86\Debug\Ruby.FormNeraca.resources
+D:\Tohri\12101065\Ruby\Ruby\obj\x86\Debug\Ruby.exe
+D:\Tohri\12101065\Ruby\Ruby\obj\x86\Debug\Ruby.xml
+D:\Tohri\12101065\Ruby\Ruby\obj\x86\Debug\Ruby.pdb
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\Ruby.exe
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\Ruby.pdb
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\Ruby.xml
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.BonusSkins.v15.1.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.Charts.Designer.v15.1.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.Charts.v15.1.Core.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.CodeParser.v15.1.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.Data.v15.1.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.DemoData.v15.1.Core.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.DemoData.v15.1.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.EasyTest.v15.1.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.ExpressApp.Chart.v15.1.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.ExpressApp.ConditionalAppearance.v15.1.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.ExpressApp.Demos.v15.1.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.ExpressApp.EF.v15.1.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.ExpressApp.Images.v15.1.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.ExpressApp.Objects.v15.1.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.ExpressApp.PivotGrid.v15.1.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.ExpressApp.ScriptRecorder.v15.1.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.ExpressApp.v15.1.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.ExpressApp.ViewVariantsModule.v15.1.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.Images.v15.1.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.Map.v15.1.Core.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.Mvvm.v15.1.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.Office.v15.1.Core.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.Pdf.v15.1.Core.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.Pdf.v15.1.Drawing.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.PivotGrid.v15.1.Core.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.Printing.v15.1.Core.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.RichEdit.v15.1.Core.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.Sparkline.v15.1.Core.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.SpellChecker.v15.1.Core.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.Tutorials.v15.1.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.Utils.v15.1.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.Utils.v15.1.UI.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.Xpf.Carousel.v15.1.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.Xpf.Charts.v15.1.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.Xpf.Controls.v15.1.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.Xpf.Core.v15.1.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.Xpf.Core.v15.1.Extensions.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.Xpf.DemoBase.v15.1.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.Xpf.Docking.v15.1.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.Xpf.Gauges.v15.1.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.Xpf.Grid.v15.1.Core.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.Xpf.Grid.v15.1.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.Xpf.Grid.v15.1.Extensions.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.Xpf.Layout.v15.1.Core.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.Xpf.LayoutControl.v15.1.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.Xpf.Map.v15.1.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.Xpf.NavBar.v15.1.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.Xpf.PivotGrid.v15.1.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.Xpf.Printing.v15.1.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.Xpf.PropertyGrid.v15.1.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.Xpf.ReportDesigner.v15.1.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.Xpf.Ribbon.v15.1.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.Xpf.RichEdit.v15.1.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.Xpf.Scheduler.v15.1.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.Xpf.SpellChecker.v15.1.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.Xpf.Themes.DXStyle.v15.1.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.Xpf.Themes.LightGray.v15.1.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.Xpf.Themes.MetropolisDark.v15.1.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.Xpf.Themes.MetropolisLight.v15.1.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.Xpf.Themes.Office2007Black.v15.1.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.Xpf.Themes.Office2007Blue.v15.1.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.Xpf.Themes.Office2007Silver.v15.1.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.Xpf.Themes.Office2010Black.v15.1.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.Xpf.Themes.Office2010Blue.v15.1.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.Xpf.Themes.Office2010Silver.v15.1.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.Xpf.Themes.Office2013.v15.1.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.Xpf.Themes.Seven.v15.1.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.Xpf.Themes.TouchlineDark.v15.1.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.Xpf.Themes.VS2010.v15.1.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.XtraBars.v15.1.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.XtraCharts.v15.1.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.XtraCharts.v15.1.UI.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.XtraCharts.v15.1.Wizard.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.XtraEditors.v15.1.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.XtraGauges.v15.1.Core.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.XtraGauges.v15.1.Presets.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.XtraGauges.v15.1.Win.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.XtraGrid.v15.1.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.XtraLayout.v15.1.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.XtraMap.v15.1.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.XtraNavBar.v15.1.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.XtraPdfViewer.v15.1.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.XtraPivotGrid.v15.1.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.XtraPrinting.v15.1.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.XtraReports.v15.1.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.XtraRichEdit.v15.1.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.XtraRichEdit.v15.1.Extensions.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.XtraScheduler.v15.1.Core.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.XtraScheduler.v15.1.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.XtraScheduler.v15.1.Extensions.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.XtraScheduler.v15.1.Reporting.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.XtraSpellChecker.v15.1.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.XtraTreeList.v15.1.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.XtraVerticalGrid.v15.1.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.XtraWizard.v15.1.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.Xpf.DocumentViewer.v15.1.Core.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\System.Windows.Interactivity.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.Charts.Designer.v15.1.xml
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.Data.v15.1.xml
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.EasyTest.v15.1.xml
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.ExpressApp.Chart.v15.1.xml
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.ExpressApp.ConditionalAppearance.v15.1.xml
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.ExpressApp.EF.v15.1.xml
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.ExpressApp.PivotGrid.v15.1.xml
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.ExpressApp.ScriptRecorder.v15.1.xml
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.ExpressApp.v15.1.xml
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.ExpressApp.ViewVariantsModule.v15.1.xml
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.Map.v15.1.Core.xml
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.Office.v15.1.Core.xml
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.Pdf.v15.1.Core.xml
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.PivotGrid.v15.1.Core.xml
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.Printing.v15.1.Core.xml
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.RichEdit.v15.1.Core.xml
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.Sparkline.v15.1.Core.xml
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.SpellChecker.v15.1.Core.xml
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.Utils.v15.1.xml
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.Utils.v15.1.UI.xml
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.Xpf.Carousel.v15.1.xml
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.Xpf.Charts.v15.1.xml
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.Xpf.Controls.v15.1.xml
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.Xpf.Core.v15.1.xml
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.Xpf.Docking.v15.1.xml
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.Xpf.Gauges.v15.1.xml
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.Xpf.Grid.v15.1.xml
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.Xpf.Grid.v15.1.Core.xml
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.Xpf.Layout.v15.1.Core.xml
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.Xpf.LayoutControl.v15.1.xml
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.Xpf.Map.v15.1.xml
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.Mvvm.v15.1.xml
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.Xpf.NavBar.v15.1.xml
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.Xpf.PivotGrid.v15.1.xml
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.Xpf.Printing.v15.1.xml
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.Xpf.PropertyGrid.v15.1.xml
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.Xpf.ReportDesigner.v15.1.xml
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.Xpf.Ribbon.v15.1.xml
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.Xpf.RichEdit.v15.1.xml
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.Xpf.Scheduler.v15.1.xml
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.Xpf.SpellChecker.v15.1.xml
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.XtraBars.v15.1.xml
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.XtraCharts.v15.1.xml
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.XtraCharts.v15.1.UI.xml
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.XtraCharts.v15.1.Wizard.xml
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.XtraEditors.v15.1.xml
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.XtraGauges.v15.1.Core.xml
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.XtraGauges.v15.1.Presets.xml
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.XtraGauges.v15.1.Win.xml
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.XtraGrid.v15.1.xml
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.XtraLayout.v15.1.xml
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.XtraMap.v15.1.xml
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.XtraNavBar.v15.1.xml
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.Pdf.v15.1.Drawing.xml
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.XtraPdfViewer.v15.1.xml
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.XtraPivotGrid.v15.1.xml
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.XtraPrinting.v15.1.xml
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.XtraReports.v15.1.xml
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.XtraRichEdit.v15.1.xml
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.XtraRichEdit.v15.1.Extensions.xml
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\System.Windows.Interactivity.xml
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.XtraScheduler.v15.1.xml
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.XtraScheduler.v15.1.Core.xml
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.XtraScheduler.v15.1.Extensions.xml
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.XtraScheduler.v15.1.Reporting.xml
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.XtraSpellChecker.v15.1.xml
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.XtraTreeList.v15.1.xml
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.XtraVerticalGrid.v15.1.xml
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\DevExpress.XtraWizard.v15.1.xml
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\de\DevExpress.Charts.Designer.v15.1.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\es\DevExpress.Charts.Designer.v15.1.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\ja\DevExpress.Charts.Designer.v15.1.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\ru\DevExpress.Charts.Designer.v15.1.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\de\DevExpress.Data.v15.1.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\es\DevExpress.Data.v15.1.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\ja\DevExpress.Data.v15.1.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\ru\DevExpress.Data.v15.1.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\de\DevExpress.ExpressApp.Chart.v15.1.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\ja\DevExpress.ExpressApp.Chart.v15.1.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\ru\DevExpress.ExpressApp.Chart.v15.1.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\de\DevExpress.Xpf.DocumentViewer.v15.1.Core.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\es\DevExpress.Xpf.DocumentViewer.v15.1.Core.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\ja\DevExpress.Xpf.DocumentViewer.v15.1.Core.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\ru\DevExpress.Xpf.DocumentViewer.v15.1.Core.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\de\DevExpress.ExpressApp.Objects.v15.1.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\es\DevExpress.ExpressApp.Objects.v15.1.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\ja\DevExpress.ExpressApp.Objects.v15.1.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\ru\DevExpress.ExpressApp.Objects.v15.1.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\de\DevExpress.ExpressApp.PivotGrid.v15.1.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\ja\DevExpress.ExpressApp.PivotGrid.v15.1.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\ru\DevExpress.ExpressApp.PivotGrid.v15.1.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\de\DevExpress.ExpressApp.ScriptRecorder.v15.1.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\es\DevExpress.ExpressApp.ScriptRecorder.v15.1.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\ja\DevExpress.ExpressApp.ScriptRecorder.v15.1.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\ru\DevExpress.ExpressApp.ScriptRecorder.v15.1.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\de\DevExpress.ExpressApp.v15.1.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\es\DevExpress.ExpressApp.v15.1.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\ja\DevExpress.ExpressApp.v15.1.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\ru\DevExpress.ExpressApp.v15.1.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\de\DevExpress.ExpressApp.ViewVariantsModule.v15.1.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\es\DevExpress.ExpressApp.ViewVariantsModule.v15.1.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\ja\DevExpress.ExpressApp.ViewVariantsModule.v15.1.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\ru\DevExpress.ExpressApp.ViewVariantsModule.v15.1.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\de\DevExpress.Map.v15.1.Core.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\es\DevExpress.Map.v15.1.Core.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\ja\DevExpress.Map.v15.1.Core.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\ru\DevExpress.Map.v15.1.Core.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\de\DevExpress.Office.v15.1.Core.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\es\DevExpress.Office.v15.1.Core.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\ja\DevExpress.Office.v15.1.Core.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\ru\DevExpress.Office.v15.1.Core.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\de\DevExpress.Pdf.v15.1.Core.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\es\DevExpress.Pdf.v15.1.Core.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\ja\DevExpress.Pdf.v15.1.Core.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\ru\DevExpress.Pdf.v15.1.Core.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\de\DevExpress.PivotGrid.v15.1.Core.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\es\DevExpress.PivotGrid.v15.1.Core.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\ja\DevExpress.PivotGrid.v15.1.Core.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\ru\DevExpress.PivotGrid.v15.1.Core.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\de\DevExpress.Printing.v15.1.Core.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\es\DevExpress.Printing.v15.1.Core.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\ja\DevExpress.Printing.v15.1.Core.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\ru\DevExpress.Printing.v15.1.Core.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\de\DevExpress.RichEdit.v15.1.Core.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\es\DevExpress.RichEdit.v15.1.Core.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\ja\DevExpress.RichEdit.v15.1.Core.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\ru\DevExpress.RichEdit.v15.1.Core.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\de\DevExpress.Sparkline.v15.1.Core.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\es\DevExpress.Sparkline.v15.1.Core.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\ja\DevExpress.Sparkline.v15.1.Core.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\ru\DevExpress.Sparkline.v15.1.Core.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\de\DevExpress.Utils.v15.1.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\es\DevExpress.Utils.v15.1.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\ja\DevExpress.Utils.v15.1.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\ru\DevExpress.Utils.v15.1.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\de\DevExpress.Utils.v15.1.UI.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\es\DevExpress.Utils.v15.1.UI.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\ja\DevExpress.Utils.v15.1.UI.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\ru\DevExpress.Utils.v15.1.UI.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\de\DevExpress.Xpf.Charts.v15.1.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\es\DevExpress.Xpf.Charts.v15.1.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\ja\DevExpress.Xpf.Charts.v15.1.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\ru\DevExpress.Xpf.Charts.v15.1.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\de\DevExpress.Xpf.Controls.v15.1.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\es\DevExpress.Xpf.Controls.v15.1.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\ja\DevExpress.Xpf.Controls.v15.1.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\ru\DevExpress.Xpf.Controls.v15.1.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\de\DevExpress.Xpf.Core.v15.1.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\es\DevExpress.Xpf.Core.v15.1.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\ja\DevExpress.Xpf.Core.v15.1.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\ru\DevExpress.Xpf.Core.v15.1.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\de\DevExpress.Xpf.Docking.v15.1.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\es\DevExpress.Xpf.Docking.v15.1.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\ja\DevExpress.Xpf.Docking.v15.1.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\ru\DevExpress.Xpf.Docking.v15.1.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\de\DevExpress.Xpf.Gauges.v15.1.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\es\DevExpress.Xpf.Gauges.v15.1.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\ja\DevExpress.Xpf.Gauges.v15.1.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\ru\DevExpress.Xpf.Gauges.v15.1.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\de\DevExpress.Xpf.Grid.v15.1.Core.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\es\DevExpress.Xpf.Grid.v15.1.Core.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\ja\DevExpress.Xpf.Grid.v15.1.Core.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\ru\DevExpress.Xpf.Grid.v15.1.Core.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\de\DevExpress.Xpf.LayoutControl.v15.1.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\es\DevExpress.Xpf.LayoutControl.v15.1.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\ja\DevExpress.Xpf.LayoutControl.v15.1.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\ru\DevExpress.Xpf.LayoutControl.v15.1.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\de\DevExpress.Xpf.NavBar.v15.1.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\es\DevExpress.Xpf.NavBar.v15.1.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\ja\DevExpress.Xpf.NavBar.v15.1.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\ru\DevExpress.Xpf.NavBar.v15.1.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\de\DevExpress.Xpf.Printing.v15.1.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\es\DevExpress.Xpf.Printing.v15.1.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\ja\DevExpress.Xpf.Printing.v15.1.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\ru\DevExpress.Xpf.Printing.v15.1.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\de\DevExpress.Xpf.PropertyGrid.v15.1.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\es\DevExpress.Xpf.PropertyGrid.v15.1.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\ja\DevExpress.Xpf.PropertyGrid.v15.1.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\ru\DevExpress.Xpf.PropertyGrid.v15.1.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\ru\DevExpress.Xpf.ReportDesigner.v15.1.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\de\DevExpress.Xpf.Ribbon.v15.1.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\es\DevExpress.Xpf.Ribbon.v15.1.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\ja\DevExpress.Xpf.Ribbon.v15.1.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\ru\DevExpress.Xpf.Ribbon.v15.1.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\de\DevExpress.Xpf.RichEdit.v15.1.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\es\DevExpress.Xpf.RichEdit.v15.1.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\ja\DevExpress.Xpf.RichEdit.v15.1.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\ru\DevExpress.Xpf.RichEdit.v15.1.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\de\DevExpress.Xpf.Scheduler.v15.1.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\es\DevExpress.Xpf.Scheduler.v15.1.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\ja\DevExpress.Xpf.Scheduler.v15.1.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\ru\DevExpress.Xpf.Scheduler.v15.1.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\de\DevExpress.Xpf.SpellChecker.v15.1.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\es\DevExpress.Xpf.SpellChecker.v15.1.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\ja\DevExpress.Xpf.SpellChecker.v15.1.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\ru\DevExpress.Xpf.SpellChecker.v15.1.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\de\DevExpress.XtraBars.v15.1.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\es\DevExpress.XtraBars.v15.1.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\ja\DevExpress.XtraBars.v15.1.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\ru\DevExpress.XtraBars.v15.1.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\de\DevExpress.XtraCharts.v15.1.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\es\DevExpress.XtraCharts.v15.1.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\ja\DevExpress.XtraCharts.v15.1.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\ru\DevExpress.XtraCharts.v15.1.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\de\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\es\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\ja\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\ru\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\de\DevExpress.XtraEditors.v15.1.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\es\DevExpress.XtraEditors.v15.1.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\ja\DevExpress.XtraEditors.v15.1.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\ru\DevExpress.XtraEditors.v15.1.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\de\DevExpress.XtraGauges.v15.1.Core.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\es\DevExpress.XtraGauges.v15.1.Core.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\ja\DevExpress.XtraGauges.v15.1.Core.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\ru\DevExpress.XtraGauges.v15.1.Core.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\de\DevExpress.XtraGauges.v15.1.Presets.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\es\DevExpress.XtraGauges.v15.1.Presets.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\ja\DevExpress.XtraGauges.v15.1.Presets.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\ru\DevExpress.XtraGauges.v15.1.Presets.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\de\DevExpress.XtraGrid.v15.1.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\es\DevExpress.XtraGrid.v15.1.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\ja\DevExpress.XtraGrid.v15.1.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\ru\DevExpress.XtraGrid.v15.1.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\de\DevExpress.XtraLayout.v15.1.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\es\DevExpress.XtraLayout.v15.1.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\ja\DevExpress.XtraLayout.v15.1.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\ru\DevExpress.XtraLayout.v15.1.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\de\DevExpress.XtraNavBar.v15.1.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\es\DevExpress.XtraNavBar.v15.1.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\ja\DevExpress.XtraNavBar.v15.1.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\ru\DevExpress.XtraNavBar.v15.1.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\de\DevExpress.XtraPdfViewer.v15.1.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\es\DevExpress.XtraPdfViewer.v15.1.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\ja\DevExpress.XtraPdfViewer.v15.1.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\ru\DevExpress.XtraPdfViewer.v15.1.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\de\DevExpress.XtraPivotGrid.v15.1.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\es\DevExpress.XtraPivotGrid.v15.1.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\ja\DevExpress.XtraPivotGrid.v15.1.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\ru\DevExpress.XtraPivotGrid.v15.1.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\de\DevExpress.XtraPrinting.v15.1.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\es\DevExpress.XtraPrinting.v15.1.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\ja\DevExpress.XtraPrinting.v15.1.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\ru\DevExpress.XtraPrinting.v15.1.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\de\DevExpress.XtraReports.v15.1.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\es\DevExpress.XtraReports.v15.1.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\ja\DevExpress.XtraReports.v15.1.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\ru\DevExpress.XtraReports.v15.1.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\de\DevExpress.XtraRichEdit.v15.1.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\es\DevExpress.XtraRichEdit.v15.1.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\ja\DevExpress.XtraRichEdit.v15.1.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\ru\DevExpress.XtraRichEdit.v15.1.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\de\DevExpress.XtraRichEdit.v15.1.Extensions.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\es\DevExpress.XtraRichEdit.v15.1.Extensions.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\ja\DevExpress.XtraRichEdit.v15.1.Extensions.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\ru\DevExpress.XtraRichEdit.v15.1.Extensions.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\de\DevExpress.XtraScheduler.v15.1.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\es\DevExpress.XtraScheduler.v15.1.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\ja\DevExpress.XtraScheduler.v15.1.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\ru\DevExpress.XtraScheduler.v15.1.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\de\DevExpress.XtraScheduler.v15.1.Core.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\es\DevExpress.XtraScheduler.v15.1.Core.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\ja\DevExpress.XtraScheduler.v15.1.Core.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\ru\DevExpress.XtraScheduler.v15.1.Core.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\de\DevExpress.XtraScheduler.v15.1.Extensions.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\es\DevExpress.XtraScheduler.v15.1.Extensions.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\ja\DevExpress.XtraScheduler.v15.1.Extensions.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\ru\DevExpress.XtraScheduler.v15.1.Extensions.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\de\DevExpress.XtraScheduler.v15.1.Reporting.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\es\DevExpress.XtraScheduler.v15.1.Reporting.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\ja\DevExpress.XtraScheduler.v15.1.Reporting.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\ru\DevExpress.XtraScheduler.v15.1.Reporting.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\de\DevExpress.XtraSpellChecker.v15.1.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\es\DevExpress.XtraSpellChecker.v15.1.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\ja\DevExpress.XtraSpellChecker.v15.1.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\ru\DevExpress.XtraSpellChecker.v15.1.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\de\DevExpress.XtraTreeList.v15.1.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\es\DevExpress.XtraTreeList.v15.1.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\ja\DevExpress.XtraTreeList.v15.1.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\ru\DevExpress.XtraTreeList.v15.1.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\de\DevExpress.XtraVerticalGrid.v15.1.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\es\DevExpress.XtraVerticalGrid.v15.1.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\ja\DevExpress.XtraVerticalGrid.v15.1.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\ru\DevExpress.XtraVerticalGrid.v15.1.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\de\DevExpress.XtraWizard.v15.1.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\es\DevExpress.XtraWizard.v15.1.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\ja\DevExpress.XtraWizard.v15.1.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\bin\Debug\ru\DevExpress.XtraWizard.v15.1.resources.dll
+D:\Tohri\12101065\Ruby\Ruby\obj\x86\Debug\Ruby.vbprojResolveAssemblyReference.cache
+D:\Tohri\12101065\Ruby\Ruby\obj\x86\Debug\Ruby.Form1.resources
+D:\Tohri\12101065\Ruby\Ruby\obj\x86\Debug\Ruby.FormAddAkun.resources
+D:\Tohri\12101065\Ruby\Ruby\obj\x86\Debug\Ruby.FormAddBank.resources
+D:\Tohri\12101065\Ruby\Ruby\obj\x86\Debug\Ruby.FormAddBarang.resources
+D:\Tohri\12101065\Ruby\Ruby\obj\x86\Debug\Ruby.FormAddBarangMasuk.resources
+D:\Tohri\12101065\Ruby\Ruby\obj\x86\Debug\Ruby.FormAddBarangPesanan.resources
+D:\Tohri\12101065\Ruby\Ruby\obj\x86\Debug\Ruby.FormAddDepartemen.resources
+D:\Tohri\12101065\Ruby\Ruby\obj\x86\Debug\Ruby.FormAddJenisBarang.resources
+D:\Tohri\12101065\Ruby\Ruby\obj\x86\Debug\Ruby.FormAddKategori.resources
+D:\Tohri\12101065\Ruby\Ruby\obj\x86\Debug\Ruby.FormAddOperator.resources
+D:\Tohri\12101065\Ruby\Ruby\obj\x86\Debug\Ruby.FormAddPelanggan.resources
+D:\Tohri\12101065\Ruby\Ruby\obj\x86\Debug\Ruby.FormAddPembayaranPiutang.resources
+D:\Tohri\12101065\Ruby\Ruby\obj\x86\Debug\Ruby.FormAddPemesananBarang.resources
+D:\Tohri\12101065\Ruby\Ruby\obj\x86\Debug\Ruby.FormAddPenerimaanBarang.resources
+D:\Tohri\12101065\Ruby\Ruby\obj\x86\Debug\Ruby.FormAddRekonsiliasiBank.resources
+D:\Tohri\12101065\Ruby\Ruby\obj\x86\Debug\Ruby.FormAddSubKlas.resources
+D:\Tohri\12101065\Ruby\Ruby\obj\x86\Debug\Ruby.FormAddSuplier.resources
+D:\Tohri\12101065\Ruby\Ruby\obj\x86\Debug\Ruby.FormAddTemplateTransaksi.resources
+D:\Tohri\12101065\Ruby\Ruby\obj\x86\Debug\Ruby.FormBukuBesar.resources
+D:\Tohri\12101065\Ruby\Ruby\obj\x86\Debug\Ruby.FormDaftarBarang.resources
+D:\Tohri\12101065\Ruby\Ruby\obj\x86\Debug\Ruby.FormDaftarHutangDagang.resources
+D:\Tohri\12101065\Ruby\Ruby\obj\x86\Debug\Ruby.FormDaftarJenisBarang.resources
+D:\Tohri\12101065\Ruby\Ruby\obj\x86\Debug\Ruby.FormDaftarPelanggan.resources
+D:\Tohri\12101065\Ruby\Ruby\obj\x86\Debug\Ruby.FormDaftarPemesananBarang.resources
+D:\Tohri\12101065\Ruby\Ruby\obj\x86\Debug\Ruby.FormDaftarPenerimaanBarang.resources
+D:\Tohri\12101065\Ruby\Ruby\obj\x86\Debug\Ruby.FormDaftarPiutangDagang.resources
+D:\Tohri\12101065\Ruby\Ruby\obj\x86\Debug\Ruby.FormDaftarSuplier.resources
+D:\Tohri\12101065\Ruby\Ruby\obj\x86\Debug\Ruby.FormDaftarTemplateTransaksi.resources
+D:\Tohri\12101065\Ruby\Ruby\obj\x86\Debug\Ruby.FormDaftarUmurHutang.resources
+D:\Tohri\12101065\Ruby\Ruby\obj\x86\Debug\Ruby.FormDaftarUmurPiutang.resources
+D:\Tohri\12101065\Ruby\Ruby\obj\x86\Debug\Ruby.FormDataAkun.resources
+D:\Tohri\12101065\Ruby\Ruby\obj\x86\Debug\Ruby.FormDataBankdanRekening.resources
+D:\Tohri\12101065\Ruby\Ruby\obj\x86\Debug\Ruby.FormDataBarang.resources
+D:\Tohri\12101065\Ruby\Ruby\obj\x86\Debug\Ruby.FormDataDepartemen.resources
+D:\Tohri\12101065\Ruby\Ruby\obj\x86\Debug\Ruby.FormDataKategori.resources
+D:\Tohri\12101065\Ruby\Ruby\obj\x86\Debug\Ruby.FormDataPelanggan.resources
+D:\Tohri\12101065\Ruby\Ruby\obj\x86\Debug\Ruby.FormDataPemerimaanBarang.resources
+D:\Tohri\12101065\Ruby\Ruby\obj\x86\Debug\Ruby.FormDataPemesananBarang.resources
+D:\Tohri\12101065\Ruby\Ruby\obj\x86\Debug\Ruby.FormDataPerusahaan.resources
+D:\Tohri\12101065\Ruby\Ruby\obj\x86\Debug\Ruby.FormDataPiutang.resources
+D:\Tohri\12101065\Ruby\Ruby\obj\x86\Debug\Ruby.FormDataSubklasifikasi.resources
+D:\Tohri\12101065\Ruby\Ruby\obj\x86\Debug\Ruby.FormDataSuplier.resources
+D:\Tohri\12101065\Ruby\Ruby\obj\x86\Debug\Ruby.FormDataTamplate.resources
+D:\Tohri\12101065\Ruby\Ruby\obj\x86\Debug\Ruby.FormDetailPembayaranHutang.resources
+D:\Tohri\12101065\Ruby\Ruby\obj\x86\Debug\Ruby.FormDetilJurnal.resources
+D:\Tohri\12101065\Ruby\Ruby\obj\x86\Debug\Ruby.FormDetilJurnaleriode.resources
+D:\Tohri\12101065\Ruby\Ruby\obj\x86\Debug\Ruby.FormDetilPO.resources
+D:\Tohri\12101065\Ruby\Ruby\obj\x86\Debug\Ruby.FormDetilRO.resources
+D:\Tohri\12101065\Ruby\Ruby\obj\x86\Debug\Ruby.FormEditAkun.resources
+D:\Tohri\12101065\Ruby\Ruby\obj\x86\Debug\Ruby.FormEditBarang.resources
+D:\Tohri\12101065\Ruby\Ruby\obj\x86\Debug\Ruby.FormEditJenisBarang.resources
+D:\Tohri\12101065\Ruby\Ruby\obj\x86\Debug\Ruby.FormEditKategori.resources
+D:\Tohri\12101065\Ruby\Ruby\obj\x86\Debug\Ruby.FormEditOperator.resources
+D:\Tohri\12101065\Ruby\Ruby\obj\x86\Debug\Ruby.FormEditPelanggan.resources
+D:\Tohri\12101065\Ruby\Ruby\obj\x86\Debug\Ruby.FormEditSuplier.resources
+D:\Tohri\12101065\Ruby\Ruby\obj\x86\Debug\Ruby.FormIncomeAudit.resources
+D:\Tohri\12101065\Ruby\Ruby\obj\x86\Debug\Ruby.FormInputTransaksiLain.resources
+D:\Tohri\12101065\Ruby\Ruby\obj\x86\Debug\Ruby.FormJurnal.resources
+D:\Tohri\12101065\Ruby\Ruby\obj\x86\Debug\Ruby.FormJurnalKoreksi.resources
+D:\Tohri\12101065\Ruby\Ruby\obj\x86\Debug\Ruby.FormJurnalPenyesuaian.resources
+D:\Tohri\12101065\Ruby\Ruby\obj\x86\Debug\Ruby.FormJurnalUmum.resources
+D:\Tohri\12101065\Ruby\Ruby\obj\x86\Debug\Ruby.FormKasMasuk.resources
+D:\Tohri\12101065\Ruby\Ruby\obj\x86\Debug\Ruby.FormLabaRugi.resources
+D:\Tohri\12101065\Ruby\Ruby\obj\x86\Debug\Ruby.FormLogin.resources
+D:\Tohri\12101065\Ruby\Ruby\obj\x86\Debug\Ruby.FormMutasi.resources
+D:\Tohri\12101065\Ruby\Ruby\obj\x86\Debug\Ruby.FormNeraca.resources
+D:\Tohri\12101065\Ruby\Ruby\obj\x86\Debug\Ruby.FormNeracaAwal.resources
+D:\Tohri\12101065\Ruby\Ruby\obj\x86\Debug\Ruby.FormNeracaLajur.resources
+D:\Tohri\12101065\Ruby\Ruby\obj\x86\Debug\Ruby.FormNeracaLajurPeriode.resources
+D:\Tohri\12101065\Ruby\Ruby\obj\x86\Debug\Ruby.FormNol.resources
+D:\Tohri\12101065\Ruby\Ruby\obj\x86\Debug\Ruby.FormOperator.resources
+D:\Tohri\12101065\Ruby\Ruby\obj\x86\Debug\Ruby.FormPembelian.resources
+D:\Tohri\12101065\Ruby\Ruby\obj\x86\Debug\Ruby.FormPenjualanBarangPerDistributor.resources
+D:\Tohri\12101065\Ruby\Ruby\obj\x86\Debug\Ruby.FormPerubahanModal.resources
+D:\Tohri\12101065\Ruby\Ruby\obj\x86\Debug\Ruby.FormProsesPembayaran.resources
+D:\Tohri\12101065\Ruby\Ruby\obj\x86\Debug\Ruby.FormSettingSistem.resources
+D:\Tohri\12101065\Ruby\Ruby\obj\x86\Debug\Ruby.FormStokOpname.resources
+D:\Tohri\12101065\Ruby\Ruby\obj\x86\Debug\Ruby.FormTotalPenerimaan.resources
+D:\Tohri\12101065\Ruby\Ruby\obj\x86\Debug\Ruby.FormTransaksi.resources
+D:\Tohri\12101065\Ruby\Ruby\obj\x86\Debug\Ruby.frmMain.resources
+D:\Tohri\12101065\Ruby\Ruby\obj\x86\Debug\Ruby.LapNeracaLajur.resources
+D:\Tohri\12101065\Ruby\Ruby\obj\x86\Debug\Ruby.LaporanBukuBesar.resources
+D:\Tohri\12101065\Ruby\Ruby\obj\x86\Debug\Ruby.LaporanDaftarHutangDagang.resources
+D:\Tohri\12101065\Ruby\Ruby\obj\x86\Debug\Ruby.LaporanDaftarPemesanan.resources
+D:\Tohri\12101065\Ruby\Ruby\obj\x86\Debug\Ruby.LaporanDaftarPenerimaan.resources
+D:\Tohri\12101065\Ruby\Ruby\obj\x86\Debug\Ruby.LaporanDaftarPiutangDagang.resources
+D:\Tohri\12101065\Ruby\Ruby\obj\x86\Debug\Ruby.laporanDetilHistoryStokOpname.resources
+D:\Tohri\12101065\Ruby\Ruby\obj\x86\Debug\Ruby.LaporanDetilPO.resources
+D:\Tohri\12101065\Ruby\Ruby\obj\x86\Debug\Ruby.LaporanDetilRO.resources
+D:\Tohri\12101065\Ruby\Ruby\obj\x86\Debug\Ruby.LaporanDetilTransferStok.resources
+D:\Tohri\12101065\Ruby\Ruby\obj\x86\Debug\Ruby.LaporanJurnalUmum.resources
+D:\Tohri\12101065\Ruby\Ruby\obj\x86\Debug\Ruby.LaporanLabaRugi.resources
+D:\Tohri\12101065\Ruby\Ruby\obj\x86\Debug\Ruby.LaporanNeracaSaldo.resources
+D:\Tohri\12101065\Ruby\Ruby\obj\x86\Debug\Ruby.LaporanPerubahanModal.resources
+D:\Tohri\12101065\Ruby\Ruby\obj\x86\Debug\Ruby.Resources.resources
+D:\Tohri\12101065\Ruby\Ruby\obj\x86\Debug\Ruby.vbproj.GenerateResource.Cache
+D:\Tohri\12101065\Ruby\Ruby\obj\x86\Debug\Ruby.exe.licenses
